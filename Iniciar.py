@@ -8,7 +8,7 @@ from datetime import datetime, timedelta, timezone
 # ==============================================================================
 # O script agora tentará ler o Token de forma segura do GitHub Actions.
 # Se rodar localmente e não encontrar, você pode colocar o token como fallback:
-PLEX_TOKEN = os.environ.get("PLEX_TOKEN", "rwyekjwc6k439C_JV2HW")
+PLEX_TOKEN = os.environ.get("PLEX_TOKEN", "")
 LANGUAGE = "pt"                     
 ARQUIVO_XML = "plex_br_epg.xml"     
 # ==============================================================================
