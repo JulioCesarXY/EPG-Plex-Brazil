@@ -1,3 +1,4 @@
+import os
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -5,9 +6,11 @@ from datetime import datetime, timedelta, timezone
 # ==============================================================================
 # CONFIGURAÇÕES
 # ==============================================================================
-PLEX_TOKEN = "rwyekjwc6k439C_JV2HW"  # Seu Token ativo do Plex
-LANGUAGE = "pt"                      # Idioma do guia (ex: pt, en)
-ARQUIVO_XML = "plex_br_epg.xml"      # Nome do arquivo final que será gerado
+# O script agora tentará ler o Token de forma segura do GitHub Actions.
+# Se rodar localmente e não encontrar, você pode colocar o token como fallback:
+PLEX_TOKEN = os.environ.get("PLEX_TOKEN", "rwyekjwc6k439C_JV2HW")
+LANGUAGE = "pt"                     
+ARQUIVO_XML = "plex_br_epg.xml"     
 # ==============================================================================
 
 def buscar_epg_plex():
