@@ -1,0 +1,42 @@
+name: Atualizar EPG Plex XMLTV
+
+on:
+  schedule:
+    # Configura o gatilho para rodar a cada 3 horas (Formato Cron)
+    - cron: '0 */3 * * *'
+  workflow_dispatch: # Permite que você clique em um botão para rodar manualmente se quiser
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Copia os arquivos do seu repositório para a máquina virtual do GitHub
+    - name: Checkout do código
+      uses: actions/checkout@v4
+
+    # 2. Configura o ambiente Python estável
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-node-version: '3.10'
+
+    # 3. Instala as bibliotecas que o script usa (requests)
+    - name: Instalar Dependências
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    # 4. Executa o script que cria o arquivo XML
+    - name: Executar Script EPG
+      run: python gerar_xmltv.py
+
+    # 5. Salva as alterações de volta no repositório automaticamente
+    - name: Commit e Push do XML atualizado
+      run: |
+        git config --global user.name "GitHub Actions Bot"
+        git config --global user.email "actions@github.com"
+        git add plex_epg_brasil.xml
+        # Só faz o commit se houver de fato alguma mudança no XML para evitar erros
+        git diff --quiet && git diff --staged --quiet || (git commit -m "EPG atualizado automaticamente" && git push)
+        
