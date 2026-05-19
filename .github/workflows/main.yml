@@ -1,0 +1,49 @@
+name: Atualizar Plex EPG
+
+on:
+  schedule:
+    # Agenda para rodar a cada 4 horas (minuto 0 da hora 0, 4, 8, 12, 16, 20)
+    - cron: '0 */4 * * *'
+  workflow_dispatch: # Permite que você clique num botão e force a execução manual se quiser
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      # Dá permissão para a automação salvar o arquivo XML de volta no seu repositório
+      contents: write
+
+    steps:
+    # 1. Copia o código do repositório para a máquina virtual
+    - name: Checkout do código
+      uses: actions/checkout@v4
+
+    # 2. Instala o Python na máquina virtual
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    # 3. Instala a biblioteca requests que o script precisa
+    - name: Instalar Dependências
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    # 4. Executa o script injetando o Token salvo nos Secrets do repositório
+    - name: Executar Extrator de EPG
+      env:
+        PLEX_TOKEN: ${{ secrets.PLEX_TOKEN }}
+      run: python seu_script.py  # <-- SUBSTITUA "seu_script.py" pelo nome real do seu arquivo
+
+    # 5. Salva o XML gerado de volta no seu GitHub
+    - name: Fazer Commit e Push do XML alterado
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add plex_br_epg.xml
+        # O "|| exit 0" evita que o processo falhe caso o guia não tenha sofrido alterações
+        git commit -m "Auto: Atualização de EPG ✅" || exit 0
+        git push
+        
