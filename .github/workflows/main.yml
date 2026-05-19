@@ -37,7 +37,7 @@ jobs:
         PLEX_TOKEN: ${{ secrets.PLEX_TOKEN }}
       run: python Iniciar.py  # <-- SUBSTITUA "seu_script.py" pelo nome real do seu arquivo
 
-        # 5. Sincroniza, faz o commit e atualiza o repositório remotamente de forma segura
+    # 5. Sincroniza, faz o commit e atualiza o repositório remotamente de forma segura
     - name: Sincronizar, Commit e Push do XML alterado
       run: |
         # Configura as credenciais do Bot do GitHub
@@ -47,16 +47,17 @@ jobs:
         # Adiciona o novo arquivo XML gerado ao estágio de commit
         git add plex_br_epg.xml
         
-        # Cria o commit. Se não houver mudanças no EPG, o "|| exit 0" encerra o passo com sucesso sem quebrar o fluxo
+        # Cria o commit. Se não houver mudanças no EPG, o "|| exit 0" encerra o passo com sucesso
         git commit -m "Auto: Atualização de EPG ✅" || exit 0
         
         # Sincroniza o estado atual buscando as atualizações mais recentes do servidor (Fetch)
-        print("Buscando alterações remotas...")
+        echo "Buscando alterações remotas..."
         git fetch origin main
         
         # Aplica um rebase para alinhar o seu commit local após qualquer modificação remota recente
         git pull --rebase origin main
         
         # Envia a atualização de volta para o repositório principal (Push)
-        print("Enviando atualizações para o GitHub...")
+        echo "Enviando atualizações para o GitHub..."
         git push origin main
+        
