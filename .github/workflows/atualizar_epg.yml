@@ -1,4 +1,4 @@
-name: Atualizar EPG Plex XMLTV
+name: Atualizar EPG Plex Brazil XMLTV
 
 on:
   schedule:
@@ -38,5 +38,5 @@ jobs:
         git config --global user.email "actions@github.com"
         git add plex_epg_brasil.xml
         # Só faz o commit se houver de fato alguma mudança no XML para evitar erros
-        git diff --quiet && git diff --staged --quiet || (git commit -m "EPG atualizado automaticamente" && git push)
+        git diff --quiet && git diff --staged --quiet || (git commit -m "EPG atualizado automaticamente✅" && git push)
         
