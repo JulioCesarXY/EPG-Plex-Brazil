@@ -78,7 +78,7 @@
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-66a9367b99bb0f3a78c0a32b">
     <display-name>Mr. Bean</display-name>
-    <icon src="https://d2yv6y0n3qsl5c.cloudfront.net/MBEAN/MrBeanAnimatedSeason02_590372.jpg"/>
+    <icon src="https://d2yv6y0n3qsl5c.cloudfront.net/MBEAN/MrBeanAnimatedSeason02_590367.jpg"/>
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-68a791fc199b0fcd6249cbb3">
     <display-name>Acorralada</display-name>
@@ -548,10 +548,6 @@
   <channel id="646546f35db8ada4c8edd7e5-675a401b67838c2b166105d8">
     <display-name>Toon Goggles</display-name>
     <icon src="https://img.static-ottera.com/prod/tg/show/thumbnails/poster/2000x2858/poster2_1440x2560_universo_z_t1_0.jpg"/>
-  </channel>
-  <channel id="646546f35db8ada4c8edd7e5-62ba4aaff663580a7238f327">
-    <display-name>Sonic TV</display-name>
-    <icon src="https://s3.amazonaws.com/mtdb.galxy.prod/storage/media-images/backdrops/kLEZaXESjkTNqnCmXFz3Zws8vI2GYvFbZAHW6SlM.jpg"/>
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-6477b95b7ba9c0d593859bfc">
     <display-name>Cops en Español</display-name>
@@ -1140,11 +1136,6 @@
     <sub-title lang="pt">Accorda Europa</sub-title>
     <desc lang="pt">Acompanhe notícias internacionais por uma perspectiva europeia na Euronews.</desc>
   </programme>
-  <programme start="20260521232828 +0000" stop="20260521234127 +0000" channel="646546f35db8ada4c8edd7e5-66a9367b99bb0f3a78c0a32b">
-    <title lang="pt">Enfermeiro Bean</title>
-    <sub-title lang="pt">Mr. Bean: A Série Animada</sub-title>
-    <desc lang="pt">Quando a Sra. Wicket é atingida pelo carrinho de brinquedo do Mr. Bean, ele passa a tomar conta dela.</desc>
-  </programme>
   <programme start="20260521234127 +0000" stop="20260521235427 +0000" channel="646546f35db8ada4c8edd7e5-66a9367b99bb0f3a78c0a32b">
     <title lang="pt">Coco Tímido</title>
     <sub-title lang="pt">Mr. Bean: A Série Animada</sub-title>
@@ -1693,6 +1684,10 @@
     <title lang="pt">Historia do carro - Porsche Racing</title>
     <sub-title lang="pt">História do carro</sub-title>
     <desc lang="pt">Nos anos 80 e 90, a Porsche corre de vitória em vitória. Uma McLaren vence três vezes a Copa do Mundo de Fórmula 1 com a Porsche power. A Porsche de 1982 começa uma série de vitórias em Le Mans. As décadas de 1980, 1990 e 2000 são os anos dourados do automobilismo para a Porsche. A História Automotiva mostra os carros mais rápidos, as corridas mais emocionantes e os pilotos mais famosos.</desc>
+  </programme>
+  <programme start="20260522054258 +0000" stop="20260522055444 +0000" channel="646546f35db8ada4c8edd7e5-60da3a5c0d1cc1002c383710">
+    <title lang="pt">Glas 1700 GT</title>
+    <desc lang="pt">O Glas GT parece uma Ferrari, mas vem da província da Baixa Baviera, na Alemanha. No início dos anos 60, era um dos poucos carros esportivos alemães.</desc>
   </programme>
   <programme start="20260521233004 +0000" stop="20260522002204 +0000" channel="646546f35db8ada4c8edd7e5-65cd522126388de8e0b08271">
     <title lang="pt">Sardenha</title>
@@ -2482,6 +2477,11 @@
     <title lang="pt">Animals Unscripted | Cats vs. Dogs, Part 2</title>
     <sub-title lang="pt">Animals Unscripted</sub-title>
     <desc lang="pt">It's always a love-hate relationship between these two.</desc>
+  </programme>
+  <programme start="20260522054052 +0000" stop="20260522061252 +0000" channel="646546f35db8ada4c8edd7e5-5f170d61b898490041b49369">
+    <title lang="pt">Animals Unscripted | That Lovin' Feline</title>
+    <sub-title lang="pt">Animals Unscripted</sub-title>
+    <desc lang="pt">&quot;Time spent watching cat videos is never wasted.&quot; -Sigmund Freud (kind of...)</desc>
   </programme>
   <programme start="20260521232900 +0000" stop="20260522002100 +0000" channel="646546f35db8ada4c8edd7e5-68c87137679609f139e6cbe0">
     <title lang="pt">Episódio 5</title>
@@ -3481,6 +3481,11 @@
     <sub-title lang="pt">La Fiebre del Jade</sub-title>
     <desc lang="pt">Guy y R2 luchan para conseguir cualquier gramo de jade y Alan les hace una propuesta.</desc>
   </programme>
+  <programme start="20260522053954 +0000" stop="20260522060818 +0000" channel="646546f35db8ada4c8edd7e5-666e1af3d91d13cb4c8cbb6d">
+    <title lang="pt">Una onza de esperanza</title>
+    <sub-title lang="pt">La Fiebre del Jade</sub-title>
+    <desc lang="pt">Guy queda a cargo de Wolverine. Claudia y Robin establecen los objetivos de esta temporada.</desc>
+  </programme>
   <programme start="20260522050400 +0000" stop="20260522053600 +0000" channel="646546f35db8ada4c8edd7e5-67f45ef989089d917e1b1634">
     <title lang="pt">Stage 3 Highlights</title>
     <sub-title lang="pt">Tour of Greece</sub-title>
@@ -3691,6 +3696,11 @@
     <title lang="pt">Lori McLuckie</title>
     <sub-title lang="pt">Wives With Knives (español)</sub-title>
     <desc lang="pt">Lori se sintió no amada y torpe durante su infancia.</desc>
+  </programme>
+  <programme start="20260522054119 +0000" stop="20260522063402 +0000" channel="646546f35db8ada4c8edd7e5-666e236ace73ed6023b55a17">
+    <title lang="pt">Crystal Mangum</title>
+    <sub-title lang="pt">Wives With Knives (español)</sub-title>
+    <desc lang="pt">Una joven hermosa pero desorientada se convierte en stripper y termina arruinando públicamente su reputación. El incidente conduce a una serie de malas relaciones hasta que una noche apuñala a su amante durante una pelea física y termina en la cárcel.</desc>
   </programme>
   <programme start="20260521233828 +0000" stop="20260522005907 +0000" channel="646546f35db8ada4c8edd7e5-62d1a58e520656fda09e609d">
     <title lang="pt">Bollywood_Calling_HD_CL_SNP</title>
@@ -4518,11 +4528,6 @@
     <title lang="pt">O Reino Infantil</title>
     <desc lang="pt">Seus personagens favoritos de O Reino Infantil estão esperando por você neste novo episódio para cantar e dançar com as músicas e os episódios mais divertidos!</desc>
   </programme>
-  <programme start="20260521231418 +0000" stop="20260521234230 +0000" channel="646546f35db8ada4c8edd7e5-62ba4aaff663580a7238f327">
-    <title lang="pt">Boogey-Mania</title>
-    <sub-title lang="pt">Adventures of Sonic the Hedgehog</sub-title>
-    <desc lang="pt">Robotnik reprograms a machine created by Von Schlemmer capable of turning dreams into reality, unleashing a Nightmare Monster upon Mobius.</desc>
-  </programme>
   <programme start="20260521232611 +0000" stop="20260521235042 +0000" channel="646546f35db8ada4c8edd7e5-6477b95b7ba9c0d593859bfc">
     <title lang="pt">No se puede debatir</title>
     <sub-title lang="pt">Cops en Español</sub-title>
@@ -5079,11 +5084,6 @@
     <title lang="pt">Episódio 1</title>
     <sub-title lang="pt">Bowling</sub-title>
     <desc lang="pt">Anne Marie Duggan, Cheryl Daniels, Sandra Jo Shiery, Jeanne Maiden, Leanne Barrettefrom Fountain Bowl, Fountain Valley, Calif.</desc>
-  </programme>
-  <programme start="20260521233422 +0000" stop="20260521234237 +0000" channel="646546f35db8ada4c8edd7e5-69a526053eb39481c7edd563">
-    <title lang="pt">Dos Son Multitud</title>
-    <sub-title lang="pt">Masha y el Oso</sub-title>
-    <desc lang="pt">Masha tiene una hermana llamada Dasha. Un buen día, Dasha decide visitar a su hermana. Aunque se parecen mucho físicamente, ¡sus personalidades son muy diferentes! A diferencia de Masha, Dasha es una niña estricta y responsable. Masha está ansiosa por contarle al Oso las noticias y se lleva a Dasha con ella para visitarlo. Y en este momento, la historia se pone todavía más interesante...</desc>
   </programme>
   <programme start="20260521234237 +0000" stop="20260521234853 +0000" channel="646546f35db8ada4c8edd7e5-69a526053eb39481c7edd563">
     <title lang="pt">Abracadabra</title>
