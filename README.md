@@ -13,5 +13,5 @@ Automação programada em Python integrada ao **GitHub Actions** para extrair, l
 A automação é executada de forma totalmente independente **a cada 4 horas**. Você pode copiar o link direto abaixo (substituindo pelos dados do seu repositório) e colar nas configurações de guia do seu player de IPTV (TiviMate, VLC, IPTV Smarters, Perfect Player, etc.):
 
 ```text
-[https://raw.githubusercontent.com/JulioCesarXY/EPG-Plex-Brazil/refs/heads/main/plex_epg_brasil.xml](https://raw.githubusercontent.com/JulioCesarXY/EPG-Plex-Brazil/refs/heads/main/plex_epg_brasil.xml)
+https://raw.githubusercontent.com/JulioCesarXY/EPG-Plex-Brazil/refs/heads/main/plex_epg_brasil.xml
 
