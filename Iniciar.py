@@ -9,7 +9,7 @@ from deep_translator import GoogleTranslator
 # ==============================================================================
 PLEX_TOKEN = os.environ.get("PLEX_TOKEN", "rwyekjwc6k439C_JV2HW")
 LANGUAGE = "pt-BR"                  
-ARQUIVO_XML = "epg_brasil.xml" # Mantido o nome exato do seu repositório
+ARQUIVO_XML = "epg_brasil.xml" 
 # ==============================================================================
 
 def buscar_epg_plex():
@@ -46,7 +46,7 @@ def buscar_epg_plex():
 
 def traduzir_texto(texto):
     """Traduz textos automaticamente para o português."""
-    if not texto:
+    if not texto or texto == "Sem título":
         return ""
     try:
         return GoogleTranslator(source='auto', target='pt').translate(texto)
@@ -54,7 +54,7 @@ def traduzir_texto(texto):
         return texto
 
 def converter_para_xmltv(dados_json, nome_arquivo_xml):
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] Iniciando correção de títulos e geração do XMLTV...")
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Corrigindo estrutura de Títulos e Descrições...")
     
     root = ET.Element("tv", generator_info_name="Plex Live TV EPG Extractor")
     canais_salvos = {}
@@ -63,25 +63,29 @@ def converter_para_xmltv(dados_json, nome_arquivo_xml):
     metadata_list = dados_json.get("MediaContainer", {}).get("Metadata", [])
 
     for item in metadata_list:
-        # Captura as variáveis de hierarquia do Plex
-        grandparent_title = item.get("grandparentTitle", "") # Geralmente o nome da Série/Canal
-        title_fixo = item.get("title", "Sem título")         # O título do bloco (Pode vir como "Episódio 1")
-        summary_fixo = item.get("summary", "")               # Sinopse
+        # Extração limpa dos metadados principais do evento
+        grandparent_title = item.get("grandparentTitle", "").strip() # Nome da série/programa (Ex: MasterChef Brasil)
+        title_original = item.get("title", "").strip()               # Título do episódio/evento (Ex: Episódio 7)
+        summary_original = item.get("summary", "").strip()           # Sinopse real do evento
 
-        # --- FALHA CORRIGIDA AQUI ---
-        # Se o título do item contiver palavras genéricas como "Episódio" ou "Episode",
-        # nós invertemos para usar o nome descritivo do evento (grandparentTitle) como principal.
-        if "Episódio" in title_fixo or "Episode" in title_fixo:
-            if grandparent_title:
-                titulo_programa_bruto = f"{grandparent_title} - {title_fixo}"
-            else:
-                titulo_programa_bruto = title_fixo
+        # 1. Tratamento inteligente do Título
+        if not title_original:
+            titulo_programa_bruto = grandparent_title if grandparent_title else "Programação Plex"
+        elif "Episódio" in title_original or "Episode" in title_original:
+            titulo_programa_bruto = f"{grandparent_title} - {title_original}" if grandparent_title else title_original
         else:
-            titulo_programa_bruto = title_fixo
+            titulo_programa_bruto = title_original
 
-        # Tradução dos textos limpos
+        # 2. Tratamento inteligente da Descrição (Sinopse)
+        # Se o Plex não fornecer um sumário, usamos o título do episódio como descrição auxiliar
+        if summary_original:
+            resumo_programa_bruto = summary_original
+        else:
+            resumo_programa_bruto = title_original if ("Episódio" not in title_original and title_original != titulo_programa_bruto) else ""
+
+        # Tradução dos campos tratados
         titulo_programa = traduzir_texto(titulo_programa_bruto)
-        resumo_programa = traduzir_texto(summary_fixo)
+        resumo_programa = traduzir_texto(resumo_programa_bruto)
 
         media_list = item.get("Media", [])
         for media in media_list:
@@ -100,7 +104,6 @@ def converter_para_xmltv(dados_json, nome_arquivo_xml):
             if id_limpo == "unknown":
                 continue
 
-            # Se o canal for genérico, tenta buscar o nome real da estação em channelTitle
             nome_canal = media.get("channelTitle", media.get("channelShortTitle", grandparent_title if grandparent_title else "Plex TV"))
 
             if id_limpo not in canais_salvos:
@@ -112,19 +115,15 @@ def converter_para_xmltv(dados_json, nome_arquivo_xml):
 
             prog_tag = ET.Element("programme", start=start_formatted, stop=end_formatted, channel=id_limpo)
             
-            # Força o título corrigido e traduzido para a tag <title> principal
+            # Injeta as tags XML estruturadas corretamente
             ET.SubElement(prog_tag, "title", lang="pt").text = titulo_programa
             
-            # Se ainda assim sobrar um subtítulo descritivo no JSON, inserimos de forma limpa
-            if "Episódio" in title_fixo and grandparent_title:
-                 ET.SubElement(prog_tag, "sub-title", lang="pt").text = title_fixo
-
             if resumo_programa:
                 ET.SubElement(prog_tag, "desc", lang="pt").text = resumo_programa
                 
             programas_xml.append(prog_tag)
 
-    # Monta a árvore XMLTV
+    # Monta a árvore XMLTV final
     for cid, cinfo in canais_salvos.items():
         channel_tag = ET.SubElement(root, "channel", id=cid)
         ET.SubElement(channel_tag, "display-name").text = cinfo["name"]
@@ -138,7 +137,7 @@ def converter_para_xmltv(dados_json, nome_arquivo_xml):
     ET.indent(tree, space="  ", level=0)
     tree.write(nome_arquivo_xml, encoding="utf-8", xml_declaration=True)
     
-    print(f"[+] Sucesso! Arquivo '{nome_arquivo_xml}' gerado com títulos corrigidos.")
+    print(f"[+] Sucesso! Arquivo '{nome_arquivo_xml}' atualizado.")
 
 if __name__ == "__main__":
     dados_epg = buscar_epg_plex()
