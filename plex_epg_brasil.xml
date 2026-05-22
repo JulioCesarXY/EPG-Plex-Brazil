@@ -2,7 +2,7 @@
 <tv generator-info-name="Plex to XMLTV Generator BR Cloud">
   <channel id="646546f35db8ada4c8edd7e5-65722042b10e9d22a882bde2">
     <display-name>MasterChef Brasil</display-name>
-    <icon src="https://d3qpxldmlb2hw1.cloudfront.net/MCHEF/MasterChefBrazilS04E20_e3f9834f-0aba-426c-a31f-b9602b381c53-1.jpg"/>
+    <icon src="https://d3qpxldmlb2hw1.cloudfront.net/MCHEF/MCHEF_default.jpg"/>
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-6683f942cd6f1d3940941149">
     <display-name>Runtime Ação</display-name>
@@ -130,11 +130,11 @@
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-6970fb0da9bfa146ce34e432">
     <display-name>Nature Time</display-name>
-    <icon src="https://amagicloud-blueantmediausa.s3.amazonaws.com/Images/S3/LNENG/series_olpejetadiaries_16x9_SPA.jpg"/>
+    <icon src="https://amagicloud-blueantmediausa.s3.amazonaws.com/Images/S3/LNENG/series_wildlifeicons_16x9_POR.jpg"/>
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-65ec577c39fd1025c2acd277">
     <display-name>FilmRise Crimenes Verdaderos</display-name>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0U1OSMUQKACM/1280x720.jpg?fb=https%253A%252F%252Fimage.xumo.com%252Fv1%252Fchannels%252Fchannel%252F88889329%252F1280x720.jpg%253Ftype%253DtrcChannelTile"/>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0U1OSMUQKACM/1280x720.jpg?fb=https%253A%252F%252Fimage.xumo.com%252Fv1%252Fchannels%252Fchannel%252F88889317%252F1280x720.jpg%253Ftype%253DtrcChannelTile"/>
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-6334a8e48a7b2a349d903b8c">
     <display-name>Billiard TV</display-name>
@@ -142,7 +142,7 @@
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-60da3a5c0d1cc1002c383710">
     <display-name>Motorvision TV</display-name>
-    <icon src="https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/3840x2160/D_071.010.jpg"/>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg"/>
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-65cd522126388de8e0b08271">
     <display-name>Tastemade</display-name>
@@ -150,7 +150,7 @@
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-656236cc5dbccec83a87b647">
     <display-name>Andromeda</display-name>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM0FLSWAJSUWTC/1280x720.jpg?fb=https%253A%252F%252Fimage.xumo.com%252Fv1%252Fchannels%252Fchannel%252F88889374%252F1280x720.jpg%253Ftype%253DtrcChannelTile"/>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0FLSWAJSUWTC/1280x720.jpg?fb=https%253A%252F%252Fimage.xumo.com%252Fv1%252Fchannels%252Fchannel%252F88889328%252F1280x720.jpg%253Ftype%253DtrcChannelTile"/>
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-67f82cc411e2a0ebf4b022d8">
     <display-name>Los asesinatos de Midsomer</display-name>
@@ -166,7 +166,7 @@
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-69a516217c245b3390e8a4d2">
     <display-name>Delito</display-name>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg27876/asset_artifacts/image/fetch_media/c058384f8cdece0d/88e92045-3093-4e16-8711-ce4449e10fcf.jpg"/>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg27876/asset_artifacts/image/fetch_media/53729bc2b82b4347/Rashash_LAS_16x9.jpg"/>
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-691536d338cb396cc8e5b40a">
     <display-name>Novelas de Siempre</display-name>
@@ -206,7 +206,7 @@
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-5fd115bdb7ef8d002dcf1820">
     <display-name>Hard Knocks</display-name>
-    <icon src="https://d3uyzhwvmemdyf.cloudfront.net/file/thumbnail/a84a08b6-14ab-4296-922a-d0e19e63445f.jpg"/>
+    <icon src="https://d3uyzhwvmemdyf.cloudfront.net/file/thumbnail/094f58b2-72cd-4ebf-832d-e58cc5d7fb05.jpg"/>
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-68645f7c1a2f321847ec0393">
     <display-name>Wineman</display-name>
@@ -325,6 +325,10 @@
     <display-name>Ice Pilots NWT</display-name>
     <icon src="https://metadata-static.plex.tv/3/gracenote/33fc65ff72c91781dfb47a1f5f4db940.jpg"/>
   </channel>
+  <channel id="646546f35db8ada4c8edd7e5-63894c1965b848bf2c8a7800">
+    <display-name>5-Minute Crafts</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/4a134b06-1d11-4ff9-834e-35e2a4fb5050/5-Minute_Crafts_Horizontalrdx.jpg"/>
+  </channel>
   <channel id="646546f35db8ada4c8edd7e5-64694d52f73356567a64ce8c">
     <display-name>Corazón</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/23ccda27-d495-497e-9bf9-cc26105410b0/Corazon_vert_image.jpg"/>
@@ -383,7 +387,7 @@
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-6449369eb3ff17382cae5811">
     <display-name>Autopista al Cielo</display-name>
-    <icon src="https://image.tmdb.org/t/p/original/50JacUOqBUgqQkxinHw8Kqy84am.jpg"/>
+    <icon src="https://image.tmdb.org/t/p/original/1hmAggQsI4E7wn7hNTeum6rGm5W.jpg"/>
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-666e192cd91d13cb4c8cbb6b">
     <display-name>Ice Pilots NWT (en español)</display-name>
@@ -427,7 +431,7 @@
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-666e236ace73ed6023b55a17">
     <display-name>Todo Crimen</display-name>
-    <icon src="https://image.xumo.com/v1/assets/asset/XM08CNI1RBZ9Z0/1280x720.jpg?fb=https%253A%252F%252Fimage.xumo.com%252Fv1%252Fchannels%252Fchannel%252F88889405%252F1280x720.jpg%253Ftype%253DtrcChannelTile"/>
+    <icon src="https://image.xumo.com/v1/assets/asset/XM0M1G82YQW4HA/1280x720.jpg?fb=https%253A%252F%252Fimage.xumo.com%252Fv1%252Fchannels%252Fchannel%252F88889405%252F1280x720.jpg%253Ftype%253DtrcChannelTile"/>
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-62d1a58e520656fda09e609d">
     <display-name>Shemaroo Bollywood</display-name>
@@ -515,7 +519,7 @@
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-65b80306e5cf85050598aba4">
     <display-name>Made It Myself TV</display-name>
-    <icon src="https://ingest-assets.wurl.com/429429/153928355-1.jpeg"/>
+    <icon src="https://ingest-assets.wurl.com/429429/197034073-1.png"/>
   </channel>
   <channel id="646546f35db8ada4c8edd7e5-6245f06793b402a3d1097787">
     <display-name>Euronews Français</display-name>
@@ -672,11 +676,6 @@
     <display-name>FreeTV Drama</display-name>
     <icon src="https://img.static-ottera.com/prod/oly/video/thumbnails/widescreen/3840x2160/sranso1_series_image_16x9_es_1920x1080_es.jpg"/>
   </channel>
-  <programme start="20260521211141 +0000" stop="20260521233306 +0000" channel="646546f35db8ada4c8edd7e5-65722042b10e9d22a882bde2">
-    <title lang="pt">Episódio 20</title>
-    <sub-title lang="pt">MasterChef Brasil</sub-title>
-    <desc lang="pt">No episódio de hoje os participantes enfrentam a última caixa misteriosa da temporada.</desc>
-  </programme>
   <programme start="20260521233306 +0000" stop="20260522015123 +0000" channel="646546f35db8ada4c8edd7e5-65722042b10e9d22a882bde2">
     <title lang="pt">Episódio 1</title>
     <sub-title lang="pt">MasterChef Brasil</sub-title>
@@ -1281,6 +1280,11 @@
     <sub-title lang="pt">Mr. Bean: A Série Animada</sub-title>
     <desc lang="pt">A Sra. Wicket exige que Bean fique em casa para receber uma cadeira que ela comprou.</desc>
   </programme>
+  <programme start="20260522053506 +0000" stop="20260522054818 +0000" channel="646546f35db8ada4c8edd7e5-66a9367b99bb0f3a78c0a32b">
+    <title lang="pt">O Supercarrinho</title>
+    <sub-title lang="pt">Mr. Bean: A Série Animada</sub-title>
+    <desc lang="pt">Mr. Bean constrói um supercarrinho de supermercado.</desc>
+  </programme>
   <programme start="20260521230000 +0000" stop="20260521235129 +0000" channel="646546f35db8ada4c8edd7e5-68a791fc199b0fcd6249cbb3">
     <title lang="pt">Episódio 1</title>
     <sub-title lang="pt">Acorralada</sub-title>
@@ -1488,6 +1492,10 @@
     <title lang="pt">SFT 33: Buakaw VS Ben 10 - Disputa De Cinturão</title>
     <desc lang="pt">Cinturão do peso-galo: Leonardo Buakaw (SP) enfrenta Fernando Ben 10 (MG).</desc>
   </programme>
+  <programme start="20260522053411 +0000" stop="20260522065236 +0000" channel="646546f35db8ada4c8edd7e5-69b47ba0573588ae1fb57f3f">
+    <title lang="pt">SFT 43: Katelyn Farias VS Graziela Silva</title>
+    <desc lang="pt">MMA e Grappling: Ketelyn Farias (SP) vs. Graziela Silva (MG). Cleiana Souza (MA) vs. Ana Monteiro (SP).</desc>
+  </programme>
   <programme start="20260521225047 +0000" stop="20260522004548 +0000" channel="646546f35db8ada4c8edd7e5-644874236e1dc0bf5664a674">
     <title lang="pt">Killer Ending</title>
     <desc lang="pt">Agatha Sayers best-selling novel becomes her worst nightmare when her daughter is abducted in a copycat scenario.</desc>
@@ -1534,11 +1542,6 @@
     <title lang="pt">El exterminador de la jungla</title>
     <sub-title lang="pt">Monstruos de Río</sub-title>
     <desc lang="pt">Jeremy Wade investiga tres muertes misteriosas en el remoto oeste del Amazonas.</desc>
-  </programme>
-  <programme start="20260521230801 +0000" stop="20260521233647 +0000" channel="646546f35db8ada4c8edd7e5-6970fb0da9bfa146ce34e432">
-    <title lang="pt">Gigantes Fugitivos</title>
-    <sub-title lang="pt">Diários de Ol Pejeta</sub-title>
-    <desc lang="pt">Veja como a equipe responde a desafios de uma população crescente de elefantes.</desc>
   </programme>
   <programme start="20260521233647 +0000" stop="20260522003340 +0000" channel="646546f35db8ada4c8edd7e5-6970fb0da9bfa146ce34e432">
     <title lang="pt">Sapos Fantásticos</title>
@@ -1634,11 +1637,6 @@
     <title lang="pt">Episódio 1</title>
     <sub-title lang="pt">Vietnam Open Billiards</sub-title>
     <desc lang="pt">Round 1: Chieh-Yu Chou / Ko Pin-Yi vs. Tran Quyet Chien / Nguyen Anh Tuan from Sept. 17, 2025.</desc>
-  </programme>
-  <programme start="20260521223343 +0000" stop="20260521233857 +0000" channel="646546f35db8ada4c8edd7e5-60da3a5c0d1cc1002c383710">
-    <title lang="pt">Mercedes Races novamente 1954/55</title>
-    <sub-title lang="pt">Classic Races</sub-title>
-    <desc lang="pt">1954. A Mercedes corre novamente. Depois de mais de 20 anos de abstinência, a Mercedes retorna no circuito Grand-Prix. Com muito empenho, engenharia avançada e com os melhores pilotos de Grand-Prix do mundo.</desc>
   </programme>
   <programme start="20260521233857 +0000" stop="20260521235720 +0000" channel="646546f35db8ada4c8edd7e5-60da3a5c0d1cc1002c383710">
     <title lang="pt">Histórico 'Fórmula V</title>
@@ -1831,11 +1829,6 @@
     <sub-title lang="pt">Hunter</sub-title>
     <desc lang="pt">As doctors prepare to operate on McCall, Hunter races to find whoever is killing potential witnesses.</desc>
   </programme>
-  <programme start="20260521231009 +0000" stop="20260521233831 +0000" channel="646546f35db8ada4c8edd7e5-69a516217c245b3390e8a4d2">
-    <title lang="pt">Rosa al amanecer: Yo sé lo que le pasó a mi mamá</title>
-    <sub-title lang="pt">Rosa Al Amanecer</sub-title>
-    <desc lang="pt">El caso de Rosa atrae la atención del país.</desc>
-  </programme>
   <programme start="20260521233831 +0000" stop="20260522004059 +0000" channel="646546f35db8ada4c8edd7e5-69a516217c245b3390e8a4d2">
     <title lang="pt">Episodio 1</title>
     <sub-title lang="pt">Rashash</sub-title>
@@ -1855,6 +1848,11 @@
     <title lang="pt">Episodio 4</title>
     <sub-title lang="pt">La Promesa del Diablo</sub-title>
     <desc lang="pt">Cuando un egipcio felizmente casado y una viuda estadounidense son engañados por el diablo, con consecuencias devastadoras, unen fuerzas y se proponen</desc>
+  </programme>
+  <programme start="20260522032728 +0000" stop="20260522035550 +0000" channel="646546f35db8ada4c8edd7e5-69a516217c245b3390e8a4d2">
+    <title lang="pt">Rosa al amanecer: Yo sé lo que le pasó a mi mamá</title>
+    <sub-title lang="pt">Rosa Al Amanecer</sub-title>
+    <desc lang="pt">El caso de Rosa atrae la atención del país.</desc>
   </programme>
   <programme start="20260522045817 +0000" stop="20260522052854 +0000" channel="646546f35db8ada4c8edd7e5-69a516217c245b3390e8a4d2">
     <title lang="pt">Infierno en la torre negra: Familia</title>
@@ -2059,11 +2057,6 @@
   <programme start="20260521230000 +0000" stop="20260522000000 +0000" channel="646546f35db8ada4c8edd7e5-62fbf52c1567211fdb82e922">
     <title lang="pt">Stingray Naturescape</title>
     <desc lang="pt">Viaja a las maravillas panorámicas del mundo con imágenes deslumbrantes, desde chimeneas crepitantes hasta vuelos sobre paraísos tropicales.</desc>
-  </programme>
-  <programme start="20260521231934 +0000" stop="20260521233751 +0000" channel="646546f35db8ada4c8edd7e5-5fd115bdb7ef8d002dcf1820">
-    <title lang="pt">M-1 Challenge 76 - Sergey Morozov v. Fabricio Viegas Sarraff</title>
-    <sub-title lang="pt">M-1 Challenge 76 - Sergey Morozov v. Fabricio Viegas Sarraff</sub-title>
-    <desc lang="pt">Sergey Morozov v. Fabricio Viegas Sarraff</desc>
   </programme>
   <programme start="20260521233751 +0000" stop="20260521234359 +0000" channel="646546f35db8ada4c8edd7e5-5fd115bdb7ef8d002dcf1820">
     <title lang="pt">UCMMA 44 - Alfie Davis v. Kostadin Enev</title>
@@ -2343,6 +2336,11 @@
     <sub-title lang="pt">Platos Sucios</sub-title>
     <desc lang="pt">López se va de viaje a Cuba y regresa con una cubana. Está decidido a casarse con ella para que obtenga la nacionalidad española pero David se enamora perdidamente de ella. Los dos acabarán peleándose para acompañarla al altar.</desc>
   </programme>
+  <programme start="20260522053726 +0000" stop="20260522060812 +0000" channel="646546f35db8ada4c8edd7e5-68645c1f1a2f321847ec0391">
+    <title lang="pt">Tengo Alternativa</title>
+    <sub-title lang="pt">Platos Sucios</sub-title>
+    <desc lang="pt">Una compañía de teatro alternativo contrata a David como actor. Empiezan a tener problemas cuando les niegan la subvención que habían pedido y no saben de donde sacar el dinero para acabar de montar el espectáculo.</desc>
+  </programme>
   <programme start="20260521230000 +0000" stop="20260522000000 +0000" channel="646546f35db8ada4c8edd7e5-65b16e7b115f5ad5450cfdac">
     <title lang="pt">Milenio Noticias con Héctor Zamarrón</title>
     <desc lang="pt">Las noticias que marcan el día con Héctor Zamarrón.</desc>
@@ -2621,11 +2619,6 @@
     <sub-title lang="pt">The Dick Van Dyke Show</sub-title>
     <desc lang="pt">Laura is afraid to tell Rob that she doesn't like a necklace.</desc>
   </programme>
-  <programme start="20260521230532 +0000" stop="20260521233739 +0000" channel="646546f35db8ada4c8edd7e5-672948f0297d4ea7584a2e13">
-    <title lang="pt">Perfect Weekend Breakfast</title>
-    <sub-title lang="pt">Martha Cooks</sub-title>
-    <desc lang="pt">Martha invites Oscar de la Renta co-creative director Laura Kim to create her Instagrammable recipes.</desc>
-  </programme>
   <programme start="20260521233739 +0000" stop="20260522000931 +0000" channel="646546f35db8ada4c8edd7e5-672948f0297d4ea7584a2e13">
     <title lang="pt">Martha Throws an Argentine Asado BBQ</title>
     <sub-title lang="pt">Martha Cooks</sub-title>
@@ -2717,6 +2710,11 @@
     <sub-title lang="pt">Séptimo Día</sub-title>
     <desc lang="pt">Ha habido un aumento en los ataques contra la policía, y los delincuentes muestran menos miedo a la autoridad</desc>
   </programme>
+  <programme start="20260522053800 +0000" stop="20260522063324 +0000" channel="646546f35db8ada4c8edd7e5-6154a863e3e4d9577f96b31a">
+    <title lang="pt">¿El negocio de la muerte?</title>
+    <sub-title lang="pt">Séptimo Día</sub-title>
+    <desc lang="pt">En 2004 en la ciudad de Cali, Diana Herrera, murió y fue sepultada en el cementerio Metropolitano de la Arquidiócesis de Cali con un contrato de arrendamiento.</desc>
+  </programme>
   <programme start="20260521232341 +0000" stop="20260522002012 +0000" channel="646546f35db8ada4c8edd7e5-666e1820ce73ed6023b55a11">
     <title lang="pt">Turkey or Bust</title>
     <sub-title lang="pt">Ice Pilots NWT</sub-title>
@@ -2736,6 +2734,11 @@
     <title lang="pt">Power Struggle</title>
     <sub-title lang="pt">Ice Pilots NWT</sub-title>
     <desc lang="pt">Duane lands a huge contract.</desc>
+  </programme>
+  <programme start="20260522053606 +0000" stop="20260522060000 +0000" channel="646546f35db8ada4c8edd7e5-63894c1965b848bf2c8a7800">
+    <title lang="pt">5-Minute Crafts</title>
+    <sub-title lang="pt">Easy Dessert Recipes: Quick Sweets for Busy Days</sub-title>
+    <desc lang="pt">Short on time but craving something sweet? These easy dessert recipes can be made quickly, perfect for when you need a fast fix for your sweet tooth.</desc>
   </programme>
   <programme start="20260521230000 +0000" stop="20260522000000 +0000" channel="646546f35db8ada4c8edd7e5-64694d52f73356567a64ce8c">
     <title lang="pt">Así en el barrio como en el cielo</title>
@@ -2894,6 +2897,10 @@
     <title lang="pt">El Justiciero 2</title>
     <desc lang="pt">Roberto continúa enfrentándose al crimen por su cuenta.</desc>
   </programme>
+  <programme start="20260522053415 +0000" stop="20260522071452 +0000" channel="646546f35db8ada4c8edd7e5-64e6df6e4a5e9b4cedc6d529">
+    <title lang="pt">Operativo de Guerra</title>
+    <desc lang="pt">Mireles y sus sicarios defienden la plaza a sangre y fuego.</desc>
+  </programme>
   <programme start="20260521231526 +0000" stop="20260522000641 +0000" channel="646546f35db8ada4c8edd7e5-65623e0eb7d737841f30a4ff">
     <title lang="pt">Episódio 5</title>
     <sub-title lang="pt">Cheaters (60 minute Version)</sub-title>
@@ -2953,11 +2960,6 @@
   <programme start="20260522051822 +0000" stop="20260522070816 +0000" channel="646546f35db8ada4c8edd7e5-63489eff90b96ef5e0eb3282">
     <title lang="pt">Deguello</title>
     <desc lang="pt">Los bandidos de Ramón atacan Danger City en busca de un tesoro. Sin hallarlo, capturan a los hombres y amenazan con el «Deguello» si no reciben el dinero. Mujeres y niños, junto a cuatro forasteros decididos a detener a Ramón, luchan por salvar la ciudad.</desc>
-  </programme>
-  <programme start="20260521232542 +0000" stop="20260521233420 +0000" channel="646546f35db8ada4c8edd7e5-65b1568052aa31b8f64da064">
-    <title lang="pt">C4 En Alerta Programa 523</title>
-    <sub-title lang="pt">C4 en Alerta</sub-title>
-    <desc lang="pt">Los videos policiacos más exclusivos los encuentras aquí con Carlos Jiménez en C4 en Alerta. Todos los delincuentes de México y el mundo quedan exhibidos aquí gracias a los videos de las cámaras de vigilancia. Imágenes sorprendentes.</desc>
   </programme>
   <programme start="20260521233420 +0000" stop="20260521234416 +0000" channel="646546f35db8ada4c8edd7e5-65b1568052aa31b8f64da064">
     <title lang="pt">C4 En Alerta Programa 523</title>
@@ -3105,6 +3107,11 @@
     <desc lang="pt">Los videos policiacos más exclusivos los encuentras aquí con Carlos Jiménez en C4 en Alerta. Todos los delincuentes de México y el mundo quedan exhibidos aquí gracias a los videos de las cámaras de vigilancia. Imágenes sorprendentes.</desc>
   </programme>
   <programme start="20260522051449 +0000" stop="20260522052542 +0000" channel="646546f35db8ada4c8edd7e5-65b1568052aa31b8f64da064">
+    <title lang="pt">C4 En Alerta Programa 523</title>
+    <sub-title lang="pt">C4 en Alerta</sub-title>
+    <desc lang="pt">Los videos policiacos más exclusivos los encuentras aquí con Carlos Jiménez en C4 en Alerta. Todos los delincuentes de México y el mundo quedan exhibidos aquí gracias a los videos de las cámaras de vigilancia. Imágenes sorprendentes.</desc>
+  </programme>
+  <programme start="20260522052542 +0000" stop="20260522053420 +0000" channel="646546f35db8ada4c8edd7e5-65b1568052aa31b8f64da064">
     <title lang="pt">C4 En Alerta Programa 523</title>
     <sub-title lang="pt">C4 en Alerta</sub-title>
     <desc lang="pt">Los videos policiacos más exclusivos los encuentras aquí con Carlos Jiménez en C4 en Alerta. Todos los delincuentes de México y el mundo quedan exhibidos aquí gracias a los videos de las cámaras de vigilancia. Imágenes sorprendentes.</desc>
@@ -3319,11 +3326,6 @@
     <title lang="pt">Lisboa</title>
     <sub-title lang="pt">Latinos por el Mundo</sub-title>
     <desc lang="pt">La capital de Portugal es parte de las siete colinas la puerta de Europa.</desc>
-  </programme>
-  <programme start="20260521223603 +0000" stop="20260521233623 +0000" channel="646546f35db8ada4c8edd7e5-6449369eb3ff17382cae5811">
-    <title lang="pt">Otro Tipo de Guerra, Otro Tipo de Paz</title>
-    <sub-title lang="pt">Autopista al Cielo</sub-title>
-    <desc lang="pt">Un hombre cuyo hijo murió en Vietnam se entera de que tiene un nieto Americano Asiático.</desc>
   </programme>
   <programme start="20260521233623 +0000" stop="20260522003545 +0000" channel="646546f35db8ada4c8edd7e5-6449369eb3ff17382cae5811">
     <title lang="pt">Amor a Segunda Vista</title>
@@ -3655,11 +3657,6 @@
     <sub-title lang="pt">Arkeo</sub-title>
     <desc lang="pt">Las teorías más locas han intentado explicar las famosas líneas de Nasca.</desc>
   </programme>
-  <programme start="20260521225631 +0000" stop="20260521233417 +0000" channel="646546f35db8ada4c8edd7e5-666e236ace73ed6023b55a17">
-    <title lang="pt">Crónica De Una Muerte Anunciada</title>
-    <sub-title lang="pt">Memoria Negra</sub-title>
-    <desc lang="pt">Febrero de 2013. Un joven de 18 años mata a su madre en Palma golpeándola salvajemente con una marcuerna. Fue el final de una cruel historia de maltrato familiar reflejada en un diario localizado por los investigadores y escrito por la víctima, María Luisa Perún, durante sus últimos meses de vida.</desc>
-  </programme>
   <programme start="20260521233417 +0000" stop="20260522002653 +0000" channel="646546f35db8ada4c8edd7e5-666e236ace73ed6023b55a17">
     <title lang="pt">Terri Pearson</title>
     <sub-title lang="pt">Wives With Knives (español)</sub-title>
@@ -3695,7 +3692,7 @@
     <sub-title lang="pt">Wives With Knives (español)</sub-title>
     <desc lang="pt">Lori se sintió no amada y torpe durante su infancia.</desc>
   </programme>
-  <programme start="20260521224546 +0000" stop="20260521233828 +0000" channel="646546f35db8ada4c8edd7e5-62d1a58e520656fda09e609d">
+  <programme start="20260521233828 +0000" stop="20260522005907 +0000" channel="646546f35db8ada4c8edd7e5-62d1a58e520656fda09e609d">
     <title lang="pt">Bollywood_Calling_HD_CL_SNP</title>
   </programme>
   <programme start="20260521230000 +0000" stop="20260522000000 +0000" channel="646546f35db8ada4c8edd7e5-688d3402a6fe30698ab42007">
@@ -3815,6 +3812,11 @@
     <title lang="pt">Curved Log Cabin Quilt</title>
     <sub-title lang="pt">The Midnight Quilt Show</sub-title>
     <desc lang="pt">Angela ponders on her new year's resolutions as she builds a curved log cabin quilt using ombré fabric.</desc>
+  </programme>
+  <programme start="20260522053922 +0000" stop="20260522054422 +0000" channel="646546f35db8ada4c8edd7e5-6365779dde08f8eec6c3f21f">
+    <title lang="pt">Bonus: 5 Items Around Your House to Use for Quilting</title>
+    <sub-title lang="pt">The Midnight Quilt Show</sub-title>
+    <desc lang="pt">From cornstarch to cuticle pushers, Angela shares five ingenious hacks for using common household items for quilting.</desc>
   </programme>
   <programme start="20260522033000 +0000" stop="20260522040000 +0000" channel="646546f35db8ada4c8edd7e5-640205c68ecb41f2d89d5814">
     <title lang="pt">Joan Rivers, Mort Sahl, Bob King, Jackie Kahane</title>
@@ -4027,6 +4029,10 @@
     <title lang="pt">Bound By A Secret</title>
     <desc lang="pt">Una mujer (Lesley Ann Warren) enferma terminal quiere revelar un secreto de toda la vida.</desc>
   </programme>
+  <programme start="20260522053648 +0000" stop="20260522072342 +0000" channel="646546f35db8ada4c8edd7e5-67db0a3892cb453db28ab020">
+    <title lang="pt">What I Did For Love</title>
+    <desc lang="pt">El amor lo conquista todo cuando la hija de un ranchero lleva a su novio a casa para la Navidad.</desc>
+  </programme>
   <programme start="20260521233000 +0000" stop="20260522000000 +0000" channel="646546f35db8ada4c8edd7e5-60089d97f682a3002c34829d">
     <title lang="pt">Episódio 1</title>
     <sub-title lang="pt">The European debrief</sub-title>
@@ -4046,10 +4052,6 @@
     <title lang="pt">Episódio 1</title>
     <sub-title lang="pt">Wake up Europe</sub-title>
     <desc lang="pt">Titulares en directo, noticias de última hora, análisis y entrevistas del Centro de Noticias de Europa.</desc>
-  </programme>
-  <programme start="20260521232455 +0000" stop="20260521233631 +0000" channel="646546f35db8ada4c8edd7e5-65b80306e5cf85050598aba4">
-    <title lang="pt">Origami Tessellations - Advent of Tess: Day 14 - Open Lens Stars</title>
-    <desc lang="pt">Madonna teaches Open Lens Stars.</desc>
   </programme>
   <programme start="20260521235847 +0000" stop="20260522000148 +0000" channel="646546f35db8ada4c8edd7e5-65b80306e5cf85050598aba4">
     <title lang="pt">The Best Ideas For Kids: Handprint Apple</title>
@@ -5078,11 +5080,6 @@
     <sub-title lang="pt">Bowling</sub-title>
     <desc lang="pt">Anne Marie Duggan, Cheryl Daniels, Sandra Jo Shiery, Jeanne Maiden, Leanne Barrettefrom Fountain Bowl, Fountain Valley, Calif.</desc>
   </programme>
-  <programme start="20260521232808 +0000" stop="20260521233422 +0000" channel="646546f35db8ada4c8edd7e5-69a526053eb39481c7edd563">
-    <title lang="pt">Fiebre De Baile</title>
-    <sub-title lang="pt">Masha y el Oso</sub-title>
-    <desc lang="pt">Panda, el primito del Oso, vuelve a visitarlo. Esta vez, su rivalidad con Masha se hace evidente en una fiebre de danza. Mientras el cerdito trata de enseñarles a bailar, el Oso construye el escenario en el jardín. ¡Esta noche, los habitantes del bosque quedarán muy sorprendidos con el espectáculo de baile!</desc>
-  </programme>
   <programme start="20260521233422 +0000" stop="20260521234237 +0000" channel="646546f35db8ada4c8edd7e5-69a526053eb39481c7edd563">
     <title lang="pt">Dos Son Multitud</title>
     <sub-title lang="pt">Masha y el Oso</sub-title>
@@ -5272,6 +5269,11 @@
     <title lang="pt">Factor De Crecimiento</title>
     <sub-title lang="pt">Masha y el Oso</sub-title>
     <desc lang="pt">Mientras inspecciona su jardín, el Oso nota que sus tulipanes no están creciendo bien. En ese momento, divisa a su enemigo, el Oso himalayo, que camina junto a la Osa. El Oso está harto de las bromas y decide preparar la máxima poción de crecimiento. Para eso se encierra en su armario, que ha transformado en un laboratorio químico. Pero luego llega Masha y hace lo imposible por conseguir la poción de crecimiento.</desc>
+  </programme>
+  <programme start="20260522053913 +0000" stop="20260522054531 +0000" channel="646546f35db8ada4c8edd7e5-69a526053eb39481c7edd563">
+    <title lang="pt">De Tal Palo, Tal Astilla</title>
+    <sub-title lang="pt">Masha y el Oso</sub-title>
+    <desc lang="pt">Érase una vez un invierno en que el niño Pingüino visitó al Oso. El Oso trató de entretenerlo y de hacerlo participar de diversas actividades, pero el Pingüino pasa la mayor parte del tiempo jugando con Masha. Aunque lo intenta una y otra vez, el Oso no logra llamar la atención del Pingüino y se pone triste. Masha se da cuenta de esto y se le ocurre una idea para arreglar las cosas.</desc>
   </programme>
   <programme start="20260521230000 +0000" stop="20260522000000 +0000" channel="646546f35db8ada4c8edd7e5-69b3481702912c2ce7ad9a3d">
     <title lang="pt">Capitulo 18</title>
