@@ -1,4 +1,4 @@
-# 📺 Plex Live TV EPG Extractor
+# 📺 Plex Brazil Live TV EPG Extractor
 
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/JulioCesarXY/EPG-Plex-Brazil/atualizar_epg.yml?branch=main&style=for-the-badge&logo=github&label=Status%20da%20Automa%C3%A7%C3%A3o)
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue?style=for-the-badge&logo=python)
