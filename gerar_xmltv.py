@@ -12,20 +12,18 @@ ARQUIVO_XML = "plex_epg_brasil.xml"
 # ==============================================================================
 
 def buscar_epg_plex():
-    """Faz a requisição dos dados de EPG corrigindo o cálculo de tempo para evitar Erro 400."""
+    """Faz a requisição dos dados de EPG incluindo o novo parâmetro obrigatório."""
     agora = datetime.now(timezone.utc)
-    
-    # CORREÇÃO DO ERRO 400: Arredonda o timestamp atual para o início da hora cheia.
-    # Algumas APIs do Plex rejeitam segundos quebrados no meio do "Grid".
     hora_arredondada = agora.replace(minute=0, second=0, microsecond=0)
     
     begins_at = int(hora_arredondada.timestamp())
-    # Puxa apenas as próximas 12 horas (reduzir o bloco evita sobrecarga e Erro 400)
     ends_at = int((hora_arredondada + timedelta(hours=12)).timestamp())
 
     url = "https://epg.provider.plex.tv/grid"
 
+    # CORREÇÃO: Inclusão do 'channelGridKey' exigido pelo servidor do Plex
     params = {
+        "channelGridKey": "default", 
         "beginsAt": begins_at,
         "endsAt": ends_at,
         "vhs": "1",
@@ -42,7 +40,6 @@ def buscar_epg_plex():
     }
 
     print(f"[{datetime.now().strftime('%H:%M:%S')}] Conectando à API do Plex Grid...")
-    print(f"[*] Período solicitado: {hora_arredondada.strftime('%H:%M')} até {(hora_arredondada + timedelta(hours=12)).strftime('%H:%M')} UTC")
     
     try:
         response = requests.get(url, params=params, headers=headers)
@@ -51,7 +48,7 @@ def buscar_epg_plex():
             return response.json()
         else:
             print(f"[!] Erro na requisição. Status Code: {response.status_code}")
-            print(f"[*] Resposta do servidor: {response.text[:200]}") # Mostra o motivo do erro 400 se houver
+            print(f"[*] Resposta do servidor: {response.text}")
             return None
     except Exception as e:
         print(f"[!] Erro de conexão: {e}")
