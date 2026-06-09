@@ -7,7 +7,7 @@ from datetime import datetime, timedelta, timezone
 # ==============================================================================
 # CONFIGURAÇÕES PRONTAS PARA O PYDROID 3
 # ==============================================================================
-ARQUIVO_XML = "epg_brasil.xml"
+ARQUIVO_XML = "plex_epg_brasil.xml"
 URL_CATEGORIA = "https://watch.plex.tv/pt-BR/live-tv/category/featured"
 # ==============================================================================
 
