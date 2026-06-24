@@ -1588,6 +1588,10 @@
     <display-name>Ancient Aliens</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F2fe1556a-c271-46cb-927f-935263f2491c%2FAncientAliensGM_channel_logo_WHite_RDX.png" />
   </channel>
+  <channel id="bbc-earth">
+    <display-name>BBC Earth</display-name>
+    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F0694fd21-4459-41d9-b49d-cef804553424%2FPLEX_BBCEarth_Logo_Light_1500X1000.png" />
+  </channel>
   <channel id="beyond-belief-2">
     <display-name>Beyond Belief</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F1837808e-79a1-439e-9ae2-ff9c4b200b81%2FFilmRise_BeyondBelief_Logo_Whiterdx.png" />
@@ -1600,6 +1604,10 @@
     <display-name>Modern Innovations by History</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F7fd8ebf6-610f-472c-b2ce-1dc327122ef7%2FModern_Innovations_by_History_General_Market_Launch_Channel_logo_color_RDX.png" />
   </channel>
+  <channel id="pbs-nature">
+    <display-name>PBS Nature</display-name>
+    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F0bbdc4ce-bd60-418c-9c1d-7bf29b98ca14%2FNATURE_White-BlueRDX.png" />
+  </channel>
   <channel id="ghosts-are-real">
     <display-name>Ghosts Are Real</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F2354dc9b-6193-44a4-97e0-b9b876620fab%2FGhostsAreReal_Logo_Dark_1500x1000.png" />
@@ -1607,6 +1615,10 @@
   <channel id="space-and-beyond">
     <display-name>Space &amp;amp; Beyond</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ff3a8ee4c-6123-4f42-97fe-a07e0b38acad%2FSpace_Beyond_Logo_Dark_1500x1000.png" />
+  </channel>
+  <channel id="bbc-travel">
+    <display-name>BBC Travel</display-name>
+    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F66897ead-8625-455a-aaa9-2962f7c26315%2FBBC_TRAVEL_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" />
   </channel>
   <channel id="curiosity-now-5">
     <display-name>Curiosity NOW</display-name>
@@ -1648,6 +1660,10 @@
     <display-name>Monsters are Real</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F3778682a-d252-4768-a5b5-cd330d6ed142%2FMonstersAreReal_Logo_Dark_1500x1000.png" />
   </channel>
+  <channel id="alien-nation-by-dust-2">
+    <display-name>Alien Nation by DUST</display-name>
+    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F7d5598a6-e100-4fab-979a-cbf775aa8aa7%2FAlien-Nation_logo_blue_1500x1000.png" />
+  </channel>
   <channel id="beyond-paranormal">
     <display-name>Beyond Paranormal</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F896a3833-8bc3-4d75-8562-756070f8c4f0%2Fbeyond_paranormal_WHITE_Bryan_Mcdaid.png" />
@@ -1676,9 +1692,21 @@
     <display-name>Paranormal Files</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2F4%2Fepg%2Fchannels%2Flogos%2Fgracenote%2F419e4cf8a2e6d3fa3ba349045061d831.png" />
   </channel>
-  <channel id="alien-nation-by-dust-2">
-    <display-name>Alien Nation by DUST</display-name>
-    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F7d5598a6-e100-4fab-979a-cbf775aa8aa7%2FAlien-Nation_logo_blue_1500x1000.png" />
+  <channel id="stingray-naturescape">
+    <display-name>Stingray Naturescape</display-name>
+    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc01ebda0-1d80-4935-ad6a-a5d3c3ef108e%2FStingray-Naturescape_Logo_Lightrdx.png" />
+  </channel>
+  <channel id="paws-and-claws">
+    <display-name>Paws &amp;amp; Claws</display-name>
+    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa5761270-da5c-4076-b49a-3f09876c7c7d%2FPaws_Claws_Logo_Dark_1500x1000.png" />
+  </channel>
+  <channel id="love-pets">
+    <display-name>Love Pets</display-name>
+    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F2cdf51b9-c535-4795-836d-ec1e97b124e9%2FPlexTV_LovePets_Logos-Primary-ForDarkBG_1500x1000_-_Rashmi_Palvannan.png" />
+  </channel>
+  <channel id="the-pet-collective-2">
+    <display-name>The Pet Collective</display-name>
+    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F29129b53-2f46-425d-ac3f-3a76dc2d147f%2FTPC_PLEX_CHANNEL-LOGOS_WHITE.png" />
   </channel>
   <channel id="inwonder">
     <display-name>INWONDER</display-name>
@@ -1688,21 +1716,9 @@
     <display-name>Robot Wars by Mech+</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F518ddf05-c7a3-4c37-aa51-1c0dde8e671b%2FLogo---white_Ben_Deloughery.png" />
   </channel>
-  <channel id="bbc-earth">
-    <display-name>BBC Earth</display-name>
-    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F0694fd21-4459-41d9-b49d-cef804553424%2FPLEX_BBCEarth_Logo_Light_1500X1000.png" />
-  </channel>
-  <channel id="pbs-nature">
-    <display-name>PBS Nature</display-name>
-    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F0bbdc4ce-bd60-418c-9c1d-7bf29b98ca14%2FNATURE_White-BlueRDX.png" />
-  </channel>
   <channel id="wildearth">
     <display-name>WildEarth</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Flogos%2Fwildearth_logo_dark.png" />
-  </channel>
-  <channel id="bbc-travel">
-    <display-name>BBC Travel</display-name>
-    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F66897ead-8625-455a-aaa9-2962f7c26315%2FBBC_TRAVEL_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" />
   </channel>
   <channel id="pbs-travel">
     <display-name>PBS Travel</display-name>
@@ -1736,18 +1752,6 @@
     <display-name>Travel Escapes</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F2e3834bc-2b60-4394-b403-57b82868af86%2Ftravel_escapes_WHITE_Bryan_Mcdaid.png" />
   </channel>
-  <channel id="love-pets">
-    <display-name>Love Pets</display-name>
-    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F2cdf51b9-c535-4795-836d-ec1e97b124e9%2FPlexTV_LovePets_Logos-Primary-ForDarkBG_1500x1000_-_Rashmi_Palvannan.png" />
-  </channel>
-  <channel id="the-pet-collective-2">
-    <display-name>The Pet Collective</display-name>
-    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F29129b53-2f46-425d-ac3f-3a76dc2d147f%2FTPC_PLEX_CHANNEL-LOGOS_WHITE.png" />
-  </channel>
-  <channel id="paws-and-claws">
-    <display-name>Paws &amp;amp; Claws</display-name>
-    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa5761270-da5c-4076-b49a-3f09876c7c7d%2FPaws_Claws_Logo_Dark_1500x1000.png" />
-  </channel>
   <channel id="gotraveler">
     <display-name>GoTraveler</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F25fe7ecc-9dce-41e3-baea-bb1d5cf49041%2FGoTraveler_logo_dark_background.png" />
@@ -1775,10 +1779,6 @@
   <channel id="stingray-holidayscapes">
     <display-name>Stingray Holidayscapes</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png" />
-  </channel>
-  <channel id="stingray-naturescape">
-    <display-name>Stingray Naturescape</display-name>
-    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc01ebda0-1d80-4935-ad6a-a5d3c3ef108e%2FStingray-Naturescape_Logo_Lightrdx.png" />
   </channel>
   <channel id="zenlife-by-stingray">
     <display-name>ZenLIFE by Stingray</display-name>
@@ -2788,156 +2788,164 @@
     <display-name>VR+</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fcd4c6347-92c4-4381-9d09-b8d38d9729de%2F1500x1000_-_white_logo_VR__Juan_M_Velasquez.png" />
   </channel>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="ion-mystery">
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="ion-mystery">
     <title lang="pt">TV Ao Vivo</title>
     <desc lang="pt">Horário/Status: Sob Demanda</desc>
   </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="national-lampoon">
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="national-lampoon">
     <title lang="pt">Descobrir</title>
     <desc lang="pt">Horário/Status: Minhas Mídias</desc>
   </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="cbs-sports-golazo-network-2">
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="cbs-sports-golazo-network-2">
     <title lang="pt">Minha Lista</title>
     <desc lang="pt">Horário/Status: Sign In</desc>
   </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="cw-gold">
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="cw-gold">
     <title lang="pt">Featured</title>
     <desc lang="pt">Horário/Status: Bingeworthy</desc>
   </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="cnn-headlines">
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="cnn-headlines">
     <title lang="pt">Movies</title>
     <desc lang="pt">Horário/Status: True Crime</desc>
   </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="world-of-love-island">
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="world-of-love-island">
     <title lang="pt">News</title>
     <desc lang="pt">Horário/Status: Sports</desc>
   </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="the-walking-dead-universe-2">
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="the-walking-dead-universe-2">
     <title lang="pt">Reality</title>
     <desc lang="pt">Horário/Status: Classics</desc>
   </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="million-dollar-listing-vault">
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="million-dollar-listing-vault">
     <title lang="pt">Adrenaline &amp;amp; Sci-Fi</title>
     <desc lang="pt">Horário/Status: Comedy</desc>
   </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="survive-or-die">
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="survive-or-die">
     <title lang="pt">Daytime TV &amp;amp; Games</title>
     <desc lang="pt">Horário/Status: Explore</desc>
   </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="aande-crime-360">
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="aande-crime-360">
     <title lang="pt">Food, Home &amp;amp; Culture</title>
     <desc lang="pt">Horário/Status: Kids &amp;amp; Family</desc>
   </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="chef-vs-chef">
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="chef-vs-chef">
     <title lang="pt">En Español</title>
     <desc lang="pt">Horário/Status: Global</desc>
   </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="nikita">
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="nikita">
     <title lang="pt">Music</title>
-    <desc lang="pt">Horário/Status: 10:00 PM</desc>
+    <desc lang="pt">Horário/Status: 1:30 AM</desc>
   </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="stargate-by-mgm">
-    <title lang="pt">10:30 PM</title>
-    <desc lang="pt">Horário/Status: 11:00 PM</desc>
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="stargate-by-mgm">
+    <title lang="pt">2:00 AM</title>
+    <desc lang="pt">Horário/Status: 2:30 AM</desc>
   </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="cw-forever">
-    <title lang="pt">10:00 PM</title>
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="cw-forever">
+    <title lang="pt">1:30 AM</title>
     <desc lang="pt">Horário/Status: Featured</desc>
   </programme>
-  <programme start="20260623180000 +0000" stop="20260623190000 +0000" channel="stories-by-amc-2">
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="stories-by-amc-2">
     <title lang="pt">Hawaii Five-0</title>
-    <desc lang="pt">Horário/Status: 18:00 - 19:00</desc>
+    <desc lang="pt">Horário/Status: 8 min restante</desc>
   </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="stories-by-amc">
-    <title lang="pt">Jay And Silent Bob Strike Back</title>
-    <desc lang="pt">Horário/Status: 41 min restante</desc>
+  <programme start="20260624190000 +0000" stop="20260624200000 +0000" channel="stories-by-amc">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">Horário/Status: 19:00 - 20:00</desc>
   </programme>
-  <programme start="20260623183800 +0000" stop="20260623201200 +0000" channel="ion-streaming">
-    <title lang="pt">Beavis and Butt-head Do America</title>
-    <desc lang="pt">Horário/Status: 18:38 - 20:12</desc>
+  <programme start="20260624171200 +0000" stop="20260624183000 +0000" channel="ion-streaming">
+    <title lang="pt">Cheech and Chong: Still Smokin</title>
+    <desc lang="pt">Horário/Status: 17:12 - 18:30</desc>
   </programme>
-  <programme start="20260623180000 +0000" stop="20260623190000 +0000" channel="bet-x-tyler-perry-drama">
-    <title lang="pt">CBS Sports Golazo Matchday</title>
-    <desc lang="pt">Horário/Status: 18:00 - 19:00</desc>
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="bet-x-tyler-perry-drama">
+    <title lang="pt">Hot Rod</title>
+    <desc lang="pt">Horário/Status: 78 min restante</desc>
   </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="hallmark-movies-and-more">
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="hallmark-movies-and-more">
+    <title lang="pt">CBS Sports Golazo Matchnight</title>
+    <desc lang="pt">Horário/Status: 8 min restante</desc>
+  </programme>
+  <programme start="20260624190000 +0000" stop="20260624200000 +0000" channel="the-wicked-tuna-channel-2">
+    <title lang="pt">CBS Sports Golazo Matchnight</title>
+    <desc lang="pt">Horário/Status: 19:00 - 20:00</desc>
+  </programme>
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="the-conners">
     <title lang="pt">Scorpion</title>
-    <desc lang="pt">Horário/Status: 47 min restante</desc>
+    <desc lang="pt">Horário/Status: 4 min restante</desc>
   </programme>
-  <programme start="20260623184400 +0000" stop="20260623193400 +0000" channel="the-wicked-tuna-channel-2">
+  <programme start="20260624185600 +0000" stop="20260624194600 +0000" channel="teen-wolf-by-mgm">
     <title lang="pt">Scorpion</title>
-    <desc lang="pt">Horário/Status: 18:44 - 19:34</desc>
+    <desc lang="pt">Horário/Status: 18:56 - 19:46</desc>
   </programme>
-  <programme start="20260623180000 +0000" stop="20260623190000 +0000" channel="the-conners">
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="ion-plus-streaming">
+    <title lang="pt">American Pulse</title>
+    <desc lang="pt">Horário/Status: 8 min restante</desc>
+  </programme>
+  <programme start="20260624190000 +0000" stop="20260624200000 +0000" channel="acorn-tv-mysteries-2">
     <title lang="pt">CNN Headline Express</title>
-    <desc lang="pt">Horário/Status: 18:00 - 19:00</desc>
+    <desc lang="pt">Horário/Status: 19:00 - 20:00</desc>
   </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="teen-wolf-by-mgm">
+  <programme start="20260624174700 +0000" stop="20260624184600 +0000" channel="britbox-mysteries">
     <title lang="pt">Love Island: UK</title>
-    <desc lang="pt">Horário/Status: 49 min restante</desc>
+    <desc lang="pt">Horário/Status: 17:47 - 18:46</desc>
   </programme>
-  <programme start="20260623184600 +0000" stop="20260623194200 +0000" channel="ion-plus-streaming">
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="midsomer-murders">
     <title lang="pt">Love Island: UK</title>
-    <desc lang="pt">Horário/Status: 18:46 - 19:42</desc>
+    <desc lang="pt">Horário/Status: 50 min restante</desc>
   </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="acorn-tv-mysteries-2">
+  <programme start="20260624174200 +0000" stop="20260624183300 +0000" channel="weeds-and-nurse-jackie">
     <title lang="pt">The Walking Dead</title>
-    <desc lang="pt">Horário/Status: 52 min restante</desc>
+    <desc lang="pt">Horário/Status: 17:42 - 18:33</desc>
   </programme>
-  <programme start="20260623184900 +0000" stop="20260623194400 +0000" channel="britbox-mysteries">
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="nash-bridges">
     <title lang="pt">The Walking Dead</title>
-    <desc lang="pt">Horário/Status: 18:49 - 19:44</desc>
+    <desc lang="pt">Horário/Status: 38 min restante</desc>
   </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="midsomer-murders">
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="heartland">
     <title lang="pt">Million Dollar Listing Los Angeles</title>
-    <desc lang="pt">Horário/Status: 32 min restante</desc>
+    <desc lang="pt">Horário/Status: 6 min restante</desc>
   </programme>
-  <programme start="20260623182900 +0000" stop="20260623193100 +0000" channel="weeds-and-nurse-jackie">
+  <programme start="20260624185800 +0000" stop="20260624194700 +0000" channel="property-brothers-channel">
     <title lang="pt">Million Dollar Listing Los Angeles</title>
-    <desc lang="pt">Horário/Status: 18:29 - 19:31</desc>
+    <desc lang="pt">Horário/Status: 18:58 - 19:47</desc>
   </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="nash-bridges">
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="real-housewives-vault">
     <title lang="pt">Deadliest Catch</title>
+    <desc lang="pt">Horário/Status: 9 min restante</desc>
+  </programme>
+  <programme start="20260624190100 +0000" stop="20260624194800 +0000" channel="murdoch-mysteries-2">
+    <title lang="pt">Deadliest Catch</title>
+    <desc lang="pt">Horário/Status: 19:01 - 19:48</desc>
+  </programme>
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="filmrise-british-tv">
+    <title lang="pt">The First 48</title>
+    <desc lang="pt">Horário/Status: 24 min restante</desc>
+  </programme>
+  <programme start="20260624191600 +0000" stop="20260624200800 +0000" channel="generation-drama">
+    <title lang="pt">The First 48</title>
+    <desc lang="pt">Horário/Status: 19:16 - 20:08</desc>
+  </programme>
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="nip-tuck">
+    <title lang="pt">Worst Cooks in America</title>
+    <desc lang="pt">Horário/Status: 6 min restante</desc>
+  </programme>
+  <programme start="20260624185800 +0000" stop="20260624194600 +0000" channel="hersphere-by-lionsgate">
+    <title lang="pt">The Next Iron Chef</title>
+    <desc lang="pt">Horário/Status: 18:58 - 19:46</desc>
+  </programme>
+  <programme start="20260624175300 +0000" stop="20260624184300 +0000" channel="nashville">
+    <title lang="pt">La Femme Nikita</title>
+    <desc lang="pt">Horário/Status: 17:53 - 18:43</desc>
+  </programme>
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="electric-now">
+    <title lang="pt">La Femme Nikita</title>
+    <desc lang="pt">Horário/Status: 42 min restante</desc>
+  </programme>
+  <programme start="20260624015155 +0000" stop="20260624055155 +0000" channel="bravo-vault">
+    <title lang="pt">Stargate SG1</title>
     <desc lang="pt">Horário/Status: 7 min restante</desc>
   </programme>
-  <programme start="20260623180300 +0000" stop="20260623185100 +0000" channel="heartland">
-    <title lang="pt">Deadliest Catch</title>
-    <desc lang="pt">Horário/Status: 18:03 - 18:51</desc>
-  </programme>
-  <programme start="20260623185100 +0000" stop="20260623193800 +0000" channel="property-brothers-channel">
-    <title lang="pt">Deadliest Catch</title>
-    <desc lang="pt">Horário/Status: 18:51 - 19:38</desc>
-  </programme>
-  <programme start="20260623180000 +0000" stop="20260623185100 +0000" channel="real-housewives-vault">
-    <title lang="pt">The First 48</title>
-    <desc lang="pt">Horário/Status: 18:00 - 18:51</desc>
-  </programme>
-  <programme start="20260623185100 +0000" stop="20260623194200 +0000" channel="murdoch-mysteries-2">
-    <title lang="pt">The First 48</title>
-    <desc lang="pt">Horário/Status: 18:51 - 19:42</desc>
-  </programme>
-  <programme start="20260623175800 +0000" stop="20260623184600 +0000" channel="filmrise-british-tv">
-    <title lang="pt">The Next Iron Chef</title>
-    <desc lang="pt">Horário/Status: 17:58 - 18:46</desc>
-  </programme>
-  <programme start="20260623184600 +0000" stop="20260623193400 +0000" channel="generation-drama">
-    <title lang="pt">Iron Chef America</title>
-    <desc lang="pt">Horário/Status: 18:46 - 19:34</desc>
-  </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="nip-tuck">
-    <title lang="pt">La Femme Nikita</title>
-    <desc lang="pt">Horário/Status: 21 min restante</desc>
-  </programme>
-  <programme start="20260623181800 +0000" stop="20260623191000 +0000" channel="hersphere-by-lionsgate">
-    <title lang="pt">La Femme Nikita</title>
-    <desc lang="pt">Horário/Status: 18:18 - 19:10</desc>
-  </programme>
-  <programme start="20260623220602 +0000" stop="20260624020602 +0000" channel="nashville">
+  <programme start="20260624185900 +0000" stop="20260624195200 +0000" channel="ebony-tv-by-lionsgate">
     <title lang="pt">Stargate SG1</title>
-    <desc lang="pt">Horário/Status: 31 min restante</desc>
-  </programme>
-  <programme start="20260623182800 +0000" stop="20260623192100 +0000" channel="electric-now">
-    <title lang="pt">Stargate SG1</title>
-    <desc lang="pt">Horário/Status: 18:28 - 19:21</desc>
+    <desc lang="pt">Horário/Status: 18:59 - 19:52</desc>
   </programme>
 </tv>
