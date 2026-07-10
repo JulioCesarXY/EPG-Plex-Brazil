@@ -2784,184 +2784,192 @@
     <display-name>VR+</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fcd4c6347-92c4-4381-9d09-b8d38d9729de%2F1500x1000_-_white_logo_VR__Juan_M_Velasquez.png" />
   </channel>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="no-reservations">
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="no-reservations">
     <title lang="pt">TV Ao Vivo</title>
     <desc lang="pt">Horário/Status: Sob Demanda</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="ion-mystery">
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="ion-mystery">
     <title lang="pt">Descobrir</title>
     <desc lang="pt">Horário/Status: Minhas Mídias</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="hallmark-movies-and-more">
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="hallmark-movies-and-more">
     <title lang="pt">Minha Lista</title>
     <desc lang="pt">Horário/Status: Sign In</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="moviesphere">
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="moviesphere">
     <title lang="pt">Featured</title>
     <desc lang="pt">Horário/Status: Bingeworthy</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="livenow-from-fox">
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="livenow-from-fox">
     <title lang="pt">Movies</title>
     <desc lang="pt">Horário/Status: True Crime</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="bet-x-tyler-perry-comedy">
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="bet-x-tyler-perry-comedy">
     <title lang="pt">News</title>
     <desc lang="pt">Horário/Status: Sports</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="dp-world-tour">
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="dp-world-tour">
     <title lang="pt">Reality</title>
     <desc lang="pt">Horário/Status: Classics</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="the-walking-dead-universe-2">
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="the-walking-dead-universe-2">
     <title lang="pt">Adrenaline &amp;amp; Sci-Fi</title>
     <desc lang="pt">Horário/Status: Comedy</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="world-of-love-island">
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="world-of-love-island">
     <title lang="pt">Daytime TV &amp;amp; Games</title>
     <desc lang="pt">Horário/Status: Explore</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="generation-drama">
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="generation-drama">
     <title lang="pt">Food, Home &amp;amp; Culture</title>
     <desc lang="pt">Horário/Status: Kids &amp;amp; Family</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="tony-robbins-network">
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="tony-robbins-network">
     <title lang="pt">En Español</title>
     <desc lang="pt">Horário/Status: Global</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="aande-alaska-state-troopers">
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="aande-alaska-state-troopers">
     <title lang="pt">Music</title>
-    <desc lang="pt">Horário/Status: 11:30 AM</desc>
+    <desc lang="pt">Horário/Status: 1:30 PM</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="teen-wolf-by-mgm">
-    <title lang="pt">12:00 PM</title>
-    <desc lang="pt">Horário/Status: 12:30 PM</desc>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="teen-wolf-by-mgm">
+    <title lang="pt">2:00 PM</title>
+    <desc lang="pt">Horário/Status: 2:30 PM</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="stargate-by-mgm">
-    <title lang="pt">11:30 AM</title>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="stargate-by-mgm">
+    <title lang="pt">1:30 PM</title>
     <desc lang="pt">Horário/Status: Featured</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="cw-forever">
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="cw-forever">
     <title lang="pt">Anthony Bourdain: No Reservations</title>
-    <desc lang="pt">Horário/Status: 2 min restante</desc>
+    <desc lang="pt">Horário/Status: 29 min restante</desc>
   </programme>
-  <programme start="20260710064100 +0000" stop="20260710072900 +0000" channel="stories-by-amc-2">
+  <programme start="20260710070800 +0000" stop="20260710075600 +0000" channel="stories-by-amc-2">
     <title lang="pt">Anthony Bourdain: No Reservations</title>
-    <desc lang="pt">Horário/Status: 06:41 - 07:29</desc>
+    <desc lang="pt">Horário/Status: 07:08 - 07:56</desc>
   </programme>
-  <programme start="20260710072900 +0000" stop="20260710082000 +0000" channel="stories-by-amc">
-    <title lang="pt">Anthony Bourdain: No Reservations</title>
-    <desc lang="pt">Horário/Status: 07:29 - 08:20</desc>
-  </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="ion-streaming">
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="stories-by-amc">
     <title lang="pt">Criminal Minds</title>
     <desc lang="pt">Horário/Status: 21 min restante</desc>
   </programme>
-  <programme start="20260710070000 +0000" stop="20260710080000 +0000" channel="bet-x-tyler-perry-drama">
+  <programme start="20260710070000 +0000" stop="20260710080000 +0000" channel="ion-streaming">
     <title lang="pt">Criminal Minds</title>
     <desc lang="pt">Horário/Status: 07:00 - 08:00</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="the-wicked-tuna-channel-2">
-    <title lang="pt">Hearts of Spring</title>
-    <desc lang="pt">Horário/Status: 53 min restante</desc>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="bet-x-tyler-perry-drama">
+    <title lang="pt">Stranded in Paradise</title>
+    <desc lang="pt">Horário/Status: 33 min restante</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="the-conners">
+  <programme start="20260710071100 +0000" stop="20260710085300 +0000" channel="the-wicked-tuna-channel-2">
+    <title lang="pt">Love at First Bark</title>
+    <desc lang="pt">Horário/Status: 07:11 - 08:53</desc>
+  </programme>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="the-conners">
+    <title lang="pt">The Last Witch Hunter</title>
+    <desc lang="pt">Horário/Status: 40 min restante</desc>
+  </programme>
+  <programme start="20260710071900 +0000" stop="20260710085800 +0000" channel="cw-gold">
+    <title lang="pt">I, Frankenstein</title>
+    <desc lang="pt">Horário/Status: 07:19 - 08:58</desc>
+  </programme>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="ion-plus-streaming">
+    <title lang="pt">LiveNOW from FOX</title>
+    <desc lang="pt">Horário/Status: 21 min restante</desc>
+  </programme>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="acorn-tv-mysteries-2">
     <title lang="pt">Novo</title>
-    <desc lang="pt">Horário/Status: Power Rangers</desc>
-  </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="cw-gold">
-    <title lang="pt">42 min restante</title>
-    <desc lang="pt">Horário/Status: The Last Witch Hunter</desc>
-  </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="ion-plus-streaming">
-    <title lang="pt">07:21 - 09:19</title>
     <desc lang="pt">Horário/Status: LiveNOW from FOX</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="acorn-tv-mysteries-2">
-    <title lang="pt">2 h 21 min restante</title>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="britbox-mysteries">
+    <title lang="pt">07:00 - 11:00</title>
     <desc lang="pt">Horário/Status: Novo</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="britbox-mysteries">
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="midsomer-murders">
     <title lang="pt">Novo</title>
     <desc lang="pt">Horário/Status: House Of Payne</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="midsomer-murders">
-    <title lang="pt">9 min restante</title>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="weeds-and-nurse-jackie">
+    <title lang="pt">06:06 - 06:30</title>
     <desc lang="pt">Horário/Status: House Of Payne</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="weeds-and-nurse-jackie">
-    <title lang="pt">06:48 - 07:13</title>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="nikita">
+    <title lang="pt">16 min restante</title>
     <desc lang="pt">Horário/Status: House Of Payne</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="nikita">
-    <title lang="pt">07:13 - 07:39</title>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="nash-bridges">
+    <title lang="pt">06:55 - 07:19</title>
+    <desc lang="pt">Horário/Status: House Of Payne</desc>
+  </programme>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="heartland">
+    <title lang="pt">07:19 - 07:46</title>
     <desc lang="pt">Horário/Status: BMW PGA Championship</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="nash-bridges">
-    <title lang="pt">2 h 38 min restante</title>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="property-brothers-channel">
+    <title lang="pt">38 min restante</title>
+    <desc lang="pt">Horário/Status: 2024</desc>
+  </programme>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="real-housewives-vault">
+    <title lang="pt">07:17 - 13:37</title>
     <desc lang="pt">Horário/Status: The Walking Dead</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="heartland">
-    <title lang="pt">27 min restante</title>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="murdoch-mysteries-2">
+    <title lang="pt">14 min restante</title>
     <desc lang="pt">Horário/Status: The Walking Dead</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="property-brothers-channel">
-    <title lang="pt">07:06 - 08:00</title>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="filmrise-british-tv">
+    <title lang="pt">06:53 - 07:51</title>
     <desc lang="pt">Horário/Status: Love Island: UK</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="real-housewives-vault">
-    <title lang="pt">43 min restante</title>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="nip-tuck">
+    <title lang="pt">39 min restante</title>
     <desc lang="pt">Horário/Status: Novo</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="murdoch-mysteries-2">
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="hersphere-by-lionsgate">
     <title lang="pt">Novo</title>
     <desc lang="pt">Horário/Status: Love Island: UK</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="filmrise-british-tv">
-    <title lang="pt">07:22 - 08:19</title>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="nashville">
+    <title lang="pt">07:18 - 08:18</title>
     <desc lang="pt">Horário/Status: Novo</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="nip-tuck">
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="electric-now">
     <title lang="pt">Novo</title>
     <desc lang="pt">Horário/Status: Close to Home</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="hersphere-by-lionsgate">
-    <title lang="pt">4 min restante</title>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="bravo-vault">
+    <title lang="pt">35 min restante</title>
     <desc lang="pt">Horário/Status: Close to Home</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="nashville">
-    <title lang="pt">06:43 - 07:33</title>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="ebony-tv-by-lionsgate">
+    <title lang="pt">07:14 - 08:06</title>
     <desc lang="pt">Horário/Status: Tony Robbins Network</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="electric-now">
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="designated-survivor">
     <title lang="pt">21 min restante</title>
     <desc lang="pt">Horário/Status: Tony Robbins Network</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="bravo-vault">
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="crime-thrillher">
     <title lang="pt">07:00 - 08:00</title>
     <desc lang="pt">Horário/Status: Alaska State Troopers</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="ebony-tv-by-lionsgate">
-    <title lang="pt">40 min restante</title>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="silent-witnessornew-tricks">
+    <title lang="pt">31 min restante</title>
     <desc lang="pt">Horário/Status: Alaska State Troopers</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="designated-survivor">
-    <title lang="pt">07:19 - 08:14</title>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="the-doctor-blake-mysteries">
+    <title lang="pt">07:10 - 08:05</title>
     <desc lang="pt">Horário/Status: Teen Wolf</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="crime-thrillher">
-    <title lang="pt">34 min restante</title>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="lawless">
+    <title lang="pt">10 min restante</title>
     <desc lang="pt">Horário/Status: Teen Wolf</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="silent-witnessornew-tricks">
-    <title lang="pt">07:12 - 08:01</title>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="the-graham-norton-show">
+    <title lang="pt">06:49 - 07:49</title>
     <desc lang="pt">Horário/Status: Stargate SG1</desc>
   </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="the-doctor-blake-mysteries">
-    <title lang="pt">05:45 - 06:37</title>
-    <desc lang="pt">Horário/Status: Stargate SG1</desc>
-  </programme>
-  <programme start="20260710113850 +0000" stop="20260710153850 +0000" channel="lawless">
-    <title lang="pt">51 min restante</title>
+  <programme start="20260710134758 +0000" stop="20260710174758 +0000" channel="western-bound">
+    <title lang="pt">35 min restante</title>
     <desc lang="pt">Horário/Status: Stargate SG1</desc>
   </programme>
 </tv>
