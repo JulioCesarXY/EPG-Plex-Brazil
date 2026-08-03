@@ -2760,184 +2760,176 @@
     <display-name>VR+</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fcd4c6347-92c4-4381-9d09-b8d38d9729de%2F1500x1000_-_white_logo_VR__Juan_M_Velasquez.png" />
   </channel>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="property-brothers-channel">
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="property-brothers-channel">
     <title lang="pt">TV Ao Vivo</title>
     <desc lang="pt">Horário/Status: Sob Demanda</desc>
   </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="ion-plus-streaming">
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="ion-plus-streaming">
     <title lang="pt">Descobrir</title>
     <desc lang="pt">Horário/Status: Minhas Mídias</desc>
   </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="the-first-48-by-aande">
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="the-first-48-by-aande">
     <title lang="pt">Minha Lista</title>
     <desc lang="pt">Horário/Status: Sign In</desc>
   </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="scripps-sports-network">
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="scripps-sports-network">
     <title lang="pt">Featured</title>
     <desc lang="pt">Horário/Status: Bingeworthy</desc>
   </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="hit-sitcoms">
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="hit-sitcoms">
     <title lang="pt">Movies</title>
     <desc lang="pt">Horário/Status: True Crime</desc>
   </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="deal-zone-presented-by-history">
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="deal-zone-presented-by-history">
     <title lang="pt">News</title>
     <desc lang="pt">Horário/Status: Sports</desc>
   </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="miramax-movie-channel">
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="miramax-movie-channel">
     <title lang="pt">Reality</title>
     <desc lang="pt">Horário/Status: Classics</desc>
   </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="bloomberg-tv">
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="bloomberg-tv">
     <title lang="pt">Adrenaline &amp;amp; Sci-Fi</title>
     <desc lang="pt">Horário/Status: Comedy</desc>
   </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="hallmark-movies-and-more">
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="hallmark-movies-and-more">
     <title lang="pt">Daytime TV &amp;amp; Games</title>
     <desc lang="pt">Horário/Status: Explore</desc>
   </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="bet-x-tyler-perry-drama">
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="bet-x-tyler-perry-drama">
     <title lang="pt">Food, Home &amp;amp; Culture</title>
     <desc lang="pt">Horário/Status: Kids &amp;amp; Family</desc>
   </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="the-librarians">
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="the-librarians">
     <title lang="pt">En Español</title>
     <desc lang="pt">Horário/Status: Global</desc>
   </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="scares-by-shudder-3">
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="scares-by-shudder-3">
     <title lang="pt">Music</title>
-    <desc lang="pt">Horário/Status: 5:00 PM</desc>
+    <desc lang="pt">Horário/Status: 7:00 PM</desc>
   </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="no-reservations">
-    <title lang="pt">5:30 PM</title>
-    <desc lang="pt">Horário/Status: 6:00 PM</desc>
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="no-reservations">
+    <title lang="pt">7:30 PM</title>
+    <desc lang="pt">Horário/Status: 8:00 PM</desc>
   </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="lifetime-movies-love-and-drama">
-    <title lang="pt">5:00 PM</title>
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="lifetime-movies-love-and-drama">
+    <title lang="pt">7:00 PM</title>
     <desc lang="pt">Horário/Status: Featured</desc>
   </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="teen-wolf-by-mgm">
-    <title lang="pt">Property Brothers</title>
-    <desc lang="pt">Horário/Status: 18 min restante</desc>
-  </programme>
-  <programme start="20260803102100 +0000" stop="20260803111500 +0000" channel="cw-forever">
+  <programme start="20260803131500 +0000" stop="20260803140900 +0000" channel="teen-wolf-by-mgm">
     <title lang="pt">Buying and Selling</title>
-    <desc lang="pt">Horário/Status: 10:21 - 11:15</desc>
+    <desc lang="pt">Horário/Status: 13:15 - 14:09</desc>
   </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="stories-by-amc-2">
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="cw-forever">
+    <title lang="pt">Property Brothers</title>
+    <desc lang="pt">Horário/Status: 50 min restante</desc>
+  </programme>
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="stories-by-amc-2">
     <title lang="pt">Hudson &amp;amp; Rex</title>
-    <desc lang="pt">Horário/Status: 57 min restante</desc>
+    <desc lang="pt">Horário/Status: 46 min restante</desc>
   </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="stories-by-amc">
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="stories-by-amc">
     <title lang="pt">The First 48</title>
-    <desc lang="pt">Horário/Status: 40 min restante</desc>
-  </programme>
-  <programme start="20260803104300 +0000" stop="20260803113500 +0000" channel="ion-streaming">
-    <title lang="pt">The First 48</title>
-    <desc lang="pt">Horário/Status: 10:43 - 11:35</desc>
-  </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="ion-mystery">
-    <title lang="pt">Cold as Balls</title>
-    <desc lang="pt">Horário/Status: 27 min restante</desc>
-  </programme>
-  <programme start="20260803103000 +0000" stop="20260803110000 +0000" channel="the-walking-dead-universe-2">
-    <title lang="pt">Cold as Balls</title>
-    <desc lang="pt">Horário/Status: 10:30 - 11:00</desc>
-  </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="the-wicked-tuna-channel-2">
-    <title lang="pt">Growing Pains</title>
-    <desc lang="pt">Horário/Status: 15 min restante</desc>
-  </programme>
-  <programme start="20260803101800 +0000" stop="20260803104500 +0000" channel="the-conners">
-    <title lang="pt">Growing Pains</title>
-    <desc lang="pt">Horário/Status: 10:18 - 10:45</desc>
-  </programme>
-  <programme start="20260803104500 +0000" stop="20260803111200 +0000" channel="cw-gold">
-    <title lang="pt">Growing Pains</title>
-    <desc lang="pt">Horário/Status: 10:45 - 11:12</desc>
-  </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="acorn-tv-mysteries-2">
-    <title lang="pt">Pawn Stars</title>
     <desc lang="pt">Horário/Status: 13 min restante</desc>
   </programme>
-  <programme start="20260803101600 +0000" stop="20260803104100 +0000" channel="britbox-mysteries">
-    <title lang="pt">Pawn Stars</title>
-    <desc lang="pt">Horário/Status: 10:16 - 10:41</desc>
+  <programme start="20260803142600 +0000" stop="20260803151900 +0000" channel="ion-streaming">
+    <title lang="pt">The First 48</title>
+    <desc lang="pt">Horário/Status: 14:26 - 15:19</desc>
   </programme>
-  <programme start="20260803104100 +0000" stop="20260803110600 +0000" channel="midsomer-murders">
-    <title lang="pt">Pawn Stars</title>
-    <desc lang="pt">Horário/Status: 10:41 - 11:06</desc>
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="ion-mystery">
+    <title lang="pt">College Football</title>
+    <desc lang="pt">Horário/Status: 1 h 46 min restante</desc>
   </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="weeds-and-nurse-jackie">
-    <title lang="pt">Defiance</title>
+  <programme start="20260803134000 +0000" stop="20260803140700 +0000" channel="the-walking-dead-universe-2">
+    <title lang="pt">Growing Pains</title>
+    <desc lang="pt">Horário/Status: 13:40 - 14:07</desc>
+  </programme>
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="the-wicked-tuna-channel-2">
+    <title lang="pt">Growing Pains</title>
+    <desc lang="pt">Horário/Status: 21 min restante</desc>
+  </programme>
+  <programme start="20260803143400 +0000" stop="20260803150000 +0000" channel="the-conners">
+    <title lang="pt">Growing Pains</title>
+    <desc lang="pt">Horário/Status: 14:34 - 15:00</desc>
+  </programme>
+  <programme start="20260803133300 +0000" stop="20260803140000 +0000" channel="cw-gold">
+    <title lang="pt">Pawn Stars</title>
+    <desc lang="pt">Horário/Status: 13:33 - 14:00</desc>
+  </programme>
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="acorn-tv-mysteries-2">
+    <title lang="pt">Pawn Stars</title>
+    <desc lang="pt">Horário/Status: 12 min restante</desc>
+  </programme>
+  <programme start="20260803142500 +0000" stop="20260803144900 +0000" channel="britbox-mysteries">
+    <title lang="pt">Pawn Stars</title>
+    <desc lang="pt">Horário/Status: 14:25 - 14:49</desc>
+  </programme>
+  <programme start="20260803144900 +0000" stop="20260803151400 +0000" channel="midsomer-murders">
+    <title lang="pt">Pawn Stars</title>
+    <desc lang="pt">Horário/Status: 14:49 - 15:14</desc>
+  </programme>
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="weeds-and-nurse-jackie">
+    <title lang="pt">Enemy At the Gates</title>
+    <desc lang="pt">Horário/Status: 31 min restante</desc>
+  </programme>
+  <programme start="20260803144400 +0000" stop="20260803170000 +0000" channel="nikita">
+    <title lang="pt">Eagle Eye</title>
+    <desc lang="pt">Horário/Status: 14:44 - 17:00</desc>
+  </programme>
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="nash-bridges">
+    <title lang="pt">Bloomberg TV+</title>
+    <desc lang="pt">Horário/Status: 46 min restante</desc>
+  </programme>
+  <programme start="20260803145900 +0000" stop="20260803155900 +0000" channel="heartland">
+    <title lang="pt">Bloomberg TV+</title>
+    <desc lang="pt">Horário/Status: 14:59 - 15:59</desc>
+  </programme>
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="real-housewives-vault">
+    <title lang="pt">Calm at Sunset</title>
+    <desc lang="pt">Horário/Status: 59 min restante</desc>
+  </programme>
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="murdoch-mysteries-2">
+    <title lang="pt">Sistas</title>
+    <desc lang="pt">Horário/Status: 12 min restante</desc>
+  </programme>
+  <programme start="20260803142500 +0000" stop="20260803151500 +0000" channel="filmrise-british-tv">
+    <title lang="pt">Sistas</title>
+    <desc lang="pt">Horário/Status: 14:25 - 15:15</desc>
+  </programme>
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="generation-drama">
+    <title lang="pt">The Librarians (2014)</title>
+    <desc lang="pt">Horário/Status: 20 min restante</desc>
+  </programme>
+  <programme start="20260803143300 +0000" stop="20260803152400 +0000" channel="nip-tuck">
+    <title lang="pt">The Librarians (2014)</title>
+    <desc lang="pt">Horário/Status: 14:33 - 15:24</desc>
+  </programme>
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="hersphere-by-lionsgate">
+    <title lang="pt">Wildling</title>
+    <desc lang="pt">Horário/Status: 58 min restante</desc>
+  </programme>
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="nashville">
+    <title lang="pt">The Layover with Anthony Bourdain</title>
+    <desc lang="pt">Horário/Status: 33 min restante</desc>
+  </programme>
+  <programme start="20260803144600 +0000" stop="20260803153400 +0000" channel="electric-now">
+    <title lang="pt">The Layover with Anthony Bourdain</title>
+    <desc lang="pt">Horário/Status: 14:46 - 15:34</desc>
+  </programme>
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="bravo-vault">
+    <title lang="pt">Couples Retreat Murder(series, 2024)</title>
     <desc lang="pt">Horário/Status: 14 min restante</desc>
   </programme>
-  <programme start="20260803101700 +0000" stop="20260803124400 +0000" channel="nikita">
-    <title lang="pt">Enemy At the Gates</title>
-    <desc lang="pt">Horário/Status: 10:17 - 12:44</desc>
+  <programme start="20260803142700 +0000" stop="20260803160800 +0000" channel="ebony-tv-by-lionsgate">
+    <title lang="pt">Cruise Ship Murder</title>
+    <desc lang="pt">Horário/Status: 14:27 - 16:08</desc>
   </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="nash-bridges">
-    <title lang="pt">Bloomberg TV+</title>
-    <desc lang="pt">Horário/Status: 57 min restante</desc>
-  </programme>
-  <programme start="20260803105900 +0000" stop="20260803115900 +0000" channel="heartland">
-    <title lang="pt">Bloomberg TV+</title>
-    <desc lang="pt">Horário/Status: 10:59 - 11:59</desc>
-  </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="real-housewives-vault">
-    <title lang="pt">Good Witch</title>
-    <desc lang="pt">Horário/Status: 77 min restante</desc>
-  </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="murdoch-mysteries-2">
-    <title lang="pt">Zatima</title>
-    <desc lang="pt">Horário/Status: 13 min restante</desc>
-  </programme>
-  <programme start="20260803101600 +0000" stop="20260803104200 +0000" channel="filmrise-british-tv">
-    <title lang="pt">Zatima</title>
-    <desc lang="pt">Horário/Status: 10:16 - 10:42</desc>
-  </programme>
-  <programme start="20260803104200 +0000" stop="20260803110900 +0000" channel="generation-drama">
-    <title lang="pt">Zatima</title>
-    <desc lang="pt">Horário/Status: 10:42 - 11:09</desc>
-  </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="nip-tuck">
-    <title lang="pt">The Librarians (2014)</title>
-    <desc lang="pt">Horário/Status: 14 s restante</desc>
-  </programme>
-  <programme start="20260803100200 +0000" stop="20260803105300 +0000" channel="hersphere-by-lionsgate">
-    <title lang="pt">The Librarians (2014)</title>
-    <desc lang="pt">Horário/Status: 10:02 - 10:53</desc>
-  </programme>
-  <programme start="20260803105300 +0000" stop="20260803114300 +0000" channel="nashville">
-    <title lang="pt">The Librarians (2014)</title>
-    <desc lang="pt">Horário/Status: 10:53 - 11:43</desc>
-  </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="electric-now">
-    <title lang="pt">All the Creatures Were Stirring</title>
-    <desc lang="pt">Horário/Status: 84 min restante</desc>
-  </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="bravo-vault">
-    <title lang="pt">The Layover with Anthony Bourdain</title>
-    <desc lang="pt">Horário/Status: 17 min restante</desc>
-  </programme>
-  <programme start="20260803102000 +0000" stop="20260803110900 +0000" channel="ebony-tv-by-lionsgate">
-    <title lang="pt">The Layover with Anthony Bourdain</title>
-    <desc lang="pt">Horário/Status: 10:20 - 11:09</desc>
-  </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="designated-survivor">
-    <title lang="pt">Fatal Honeymoon</title>
-    <desc lang="pt">Horário/Status: 41 min restante</desc>
-  </programme>
-  <programme start="20260803104300 +0000" stop="20260803122700 +0000" channel="crime-thrillher">
-    <title lang="pt">Couples Retreat Murder(series, 2024)</title>
-    <desc lang="pt">Horário/Status: 10:43 - 12:27</desc>
-  </programme>
-  <programme start="20260803170237 +0000" stop="20260803210237 +0000" channel="silent-witnessornew-tricks">
+  <programme start="20260803191304 +0000" stop="20260803231304 +0000" channel="designated-survivor">
     <title lang="pt">Teen Wolf</title>
-    <desc lang="pt">Horário/Status: 17 min restante</desc>
+    <desc lang="pt">Horário/Status: 33 min restante</desc>
   </programme>
-  <programme start="20260803102000 +0000" stop="20260803110900 +0000" channel="the-doctor-blake-mysteries">
+  <programme start="20260803144600 +0000" stop="20260803153400 +0000" channel="crime-thrillher">
     <title lang="pt">Teen Wolf</title>
-    <desc lang="pt">Horário/Status: 10:20 - 11:09</desc>
+    <desc lang="pt">Horário/Status: 14:46 - 15:34</desc>
   </programme>
 </tv>
