@@ -192,6 +192,18 @@
     <display-name>Lawless</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fd175e798-302f-41f4-bde4-9ca04015f085%2FLawless_Plex_Logo_Light_1500x1000.png" />
   </channel>
+  <channel id="rookie-blue-2">
+    <display-name>Rookie Blue</display-name>
+    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F19d7ca0a-bd96-4451-95b4-98f2150bd1e9%2FRookieBlue_Logo_White_-_Kyle_Van_VonderenRDX.png" />
+  </channel>
+  <channel id="lionsgate-network">
+    <display-name>Lionsgate Network</display-name>
+    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fb37f858b-d7d1-4456-bc42-871dd4b9c1d9%2FPlex_LGNetwork_Logo_Light_1500x1000.png" />
+  </channel>
+  <channel id="pulse">
+    <display-name>Pulse</display-name>
+    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F01a708ab-f4f1-4612-aca9-43686348b630%2FPlex_Pulse_Logo_Light_1500x1000RDXWHT.png" />
+  </channel>
   <channel id="the-graham-norton-show">
     <display-name>The Graham Norton Show</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ff4b4443f-36c5-4bc2-b361-01358026113a%2FGrahamNorton_Logo_Colour_1500X1000.png" />
@@ -267,6 +279,10 @@
   <channel id="christmas-plus">
     <display-name>Christmas Plus</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F8e9a9c73-613c-47d4-8400-184fda888fbd%2FChristmas_PLus_WHITE-_1500x1000rdx.png" />
+  </channel>
+  <channel id="scandal">
+    <display-name>Scandal</display-name>
+    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F0813fc98-7d64-4d08-8edb-2e48dc886d36%2FPlex_SCANDAL_Logo_Light_1500x1000RDX.png" />
   </channel>
   <channel id="mytime-movie-network-3">
     <display-name>MyTime Movie Network</display-name>
@@ -936,21 +952,13 @@
     <display-name>Million Dollar Listing Vault</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fe%2Fepg%2Fchannels%2Flogos%2Fgracenote%2Fed574c37e1144f182cd6643b0c871629.png" />
   </channel>
-  <channel id="untold-stories-of-the-er">
-    <display-name>Untold Stories of the ER</display-name>
-    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fabb455e0-edc7-4b2a-9505-a250550ff145%2FPlex_FilmRise_UntoldStoriesoftheER_Color_LogoRDX.png" />
+  <channel id="medical-incredible">
+    <display-name>Medical Incredible</display-name>
+    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fd56a778a-d52e-440b-847d-a7e118b1c043%2FMedicalIncredible_Logo_Dark_1500x1000.png" />
   </channel>
   <channel id="love-and-marriage">
     <display-name>Love &amp;amp; Marriage</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc8f1b6ec-268a-46d3-9b0c-0934c9b89680%2FLove_Marriage_Logo_Dark_1500x1000.png" />
-  </channel>
-  <channel id="mayday-air-disaster-2">
-    <display-name>Mayday: Air Disaster</display-name>
-    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F56055a21-e529-4b54-8f9e-42cf8fc41bc5%2FMaydayAirDisaster_Logo_FullColour_1500x1000_-_Patrick_LeeRED.png" />
-  </channel>
-  <channel id="medical-incredible">
-    <display-name>Medical Incredible</display-name>
-    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fd56a778a-d52e-440b-847d-a7e118b1c043%2FMedicalIncredible_Logo_Dark_1500x1000.png" />
   </channel>
   <channel id="highway-thru-hell">
     <display-name>Highway Thru Hell</display-name>
@@ -984,9 +992,25 @@
     <display-name>Extreme Jobs</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F7e6d1c65-984f-4293-8a4c-9ddd8a425202%2FLogo_ExtremeJobs_White_1500x1000_-_Kyle_Van_VonderenRDX.png" />
   </channel>
+  <channel id="mayday-air-disaster-2">
+    <display-name>Mayday: Air Disaster</display-name>
+    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F56055a21-e529-4b54-8f9e-42cf8fc41bc5%2FMaydayAirDisaster_Logo_FullColour_1500x1000_-_Patrick_LeeRED.png" />
+  </channel>
+  <channel id="real-emergency">
+    <display-name>Real Emergency</display-name>
+    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F1ed26798-0ac2-47f2-b0ef-0c1667b2daf2%2FReal_Emergency_Logo_1500x1000_Jay_Crossman.png" />
+  </channel>
+  <channel id="chaos-on-cam-by-aande">
+    <display-name>Chaos on Cam by A&amp;amp;E</display-name>
+    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fcf5b9071-33cc-4eab-a25d-1b291bbde740%2FChaos_On_Cam_By_AE_channel_logo_4c_1500x1000_-_Laura_Connolly.png" />
+  </channel>
   <channel id="rig-tv">
     <display-name>Rig TV</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fcab375d6-3971-46c5-bd2e-66dc640879d2%2FRIGTV_Logo_White_1500X1000_.png" />
+  </channel>
+  <channel id="untold-stories-of-the-er">
+    <display-name>Untold Stories of the ER</display-name>
+    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fabb455e0-edc7-4b2a-9505-a250550ff145%2FPlex_FilmRise_UntoldStoriesoftheER_Color_LogoRDX.png" />
   </channel>
   <channel id="ice-pilots-nwt">
     <display-name>Ice Pilots NWT</display-name>
@@ -1011,10 +1035,6 @@
   <channel id="dont-tell-the-bride">
     <display-name>Don&amp;#x27;t Tell The Bride</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fdd9af438-b087-47c9-bd15-d7900fffb640%2FPlex_LogoWhite_-_Simon_Tuquabo.png" />
-  </channel>
-  <channel id="chaos-on-cam-by-aande">
-    <display-name>Chaos on Cam by A&amp;amp;E</display-name>
-    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fcf5b9071-33cc-4eab-a25d-1b291bbde740%2FChaos_On_Cam_By_AE_channel_logo_4c_1500x1000_-_Laura_Connolly.png" />
   </channel>
   <channel id="preston-and-brianna">
     <display-name>Preston &amp;amp; Brianna</display-name>
@@ -1688,6 +1708,10 @@
     <display-name>Beyond Paranormal</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F896a3833-8bc3-4d75-8562-756070f8c4f0%2Fbeyond_paranormal_WHITE_Bryan_Mcdaid.png" />
   </channel>
+  <channel id="paranormal-chronicles">
+    <display-name>Paranormal Chronicles</display-name>
+    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F5cb43bbc-77b3-45e2-abd1-60128aff6009%2FParanormalChronicles_Logo_WhiteRDX.png" />
+  </channel>
   <channel id="i-shouldnt-be-alive">
     <display-name>I Shouldn&amp;#x27;t Be Alive</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F048549fe-9723-418a-be64-e06a2901d377%2FIShouldntBeAlive_Logo_White_1500x1000_-_Harry_Marshall.png" />
@@ -2183,6 +2207,10 @@
   <channel id="filmrise-series-gratis">
     <display-name>FilmRise Series Gratis</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fac25af2a-e4a5-45a1-a54c-715ab8718060%2FFilmRise_SeriesGratis_1500x1000_logo_light.png" />
+  </channel>
+  <channel id="cindie-tv-3">
+    <display-name>Cindie TV</display-name>
+    <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F5a65bcc2-33a5-413b-9bd1-75c976269317%2FCindie_TV_Horizontal_Attribution_Logo.png" />
   </channel>
   <channel id="corazon">
     <display-name>Corazón</display-name>
@@ -2776,179 +2804,187 @@
     <display-name>VR+</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fcd4c6347-92c4-4381-9d09-b8d38d9729de%2F1500x1000_-_white_logo_VR__Juan_M_Velasquez.png" />
   </channel>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="nfl-channel">
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="nfl-channel">
     <title lang="pt">TV Ao Vivo</title>
     <desc lang="pt">Horário/Status: Sob Demanda</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="ion-streaming">
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="ion-streaming">
     <title lang="pt">Descobrir</title>
     <desc lang="pt">Horário/Status: Minhas Mídias</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="stories-by-amc">
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="stories-by-amc">
     <title lang="pt">My Lists</title>
     <desc lang="pt">Horário/Status: Sign In</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="mythbusters">
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="mythbusters">
     <title lang="pt">Featured</title>
     <desc lang="pt">Horário/Status: Bingeworthy</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="forensic-files">
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="forensic-files">
     <title lang="pt">Movies</title>
     <desc lang="pt">Horário/Status: True Crime</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="pbs-antiques-roadshow">
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="pbs-antiques-roadshow">
     <title lang="pt">News</title>
     <desc lang="pt">Horário/Status: Sports</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="moviesphere">
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="moviesphere">
     <title lang="pt">Reality</title>
     <desc lang="pt">Horário/Status: Classics</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="nbc-news-now">
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="nbc-news-now">
     <title lang="pt">Adrenaline &amp;amp; Sci-Fi</title>
     <desc lang="pt">Horário/Status: Comedy</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="growing-up-hip-hop">
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="growing-up-hip-hop">
     <title lang="pt">Daytime TV &amp;amp; Games</title>
     <desc lang="pt">Horário/Status: Explore</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="national-lampoon">
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="national-lampoon">
     <title lang="pt">Food, Home &amp;amp; Culture</title>
     <desc lang="pt">Horário/Status: Kids &amp;amp; Family</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="fubo-sports-network">
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="fubo-sports-network">
     <title lang="pt">En Español</title>
     <desc lang="pt">Horário/Status: Global</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="revry-2">
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="revry-2">
     <title lang="pt">Music</title>
-    <desc lang="pt">Horário/Status: 1:30 AM</desc>
+    <desc lang="pt">Horário/Status: 7:30 AM</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="family-feud-classic">
-    <title lang="pt">2:00 AM</title>
-    <desc lang="pt">Horário/Status: 2:30 AM</desc>
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="family-feud-classic">
+    <title lang="pt">8:00 AM</title>
+    <desc lang="pt">Horário/Status: 8:30 AM</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="ryan-trahan">
-    <title lang="pt">1:30 AM</title>
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="ryan-trahan">
+    <title lang="pt">7:30 AM</title>
     <desc lang="pt">Horário/Status: Featured</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="cw-forever">
-    <title lang="pt">Weekly Game Previews</title>
-    <desc lang="pt">Horário/Status: 74 min restante</desc>
+  <programme start="20260924000800 +0000" stop="20260924023700 +0000" channel="cw-forever">
+    <title lang="pt">NFL Game Re-Airs</title>
+    <desc lang="pt">Horário/Status: 00:08 - 02:37</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="stories-by-amc-2">
-    <title lang="pt">Blue Bloods</title>
-    <desc lang="pt">Horário/Status: 19 min restante</desc>
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="stories-by-amc-2">
+    <title lang="pt">NFL Throwback</title>
+    <desc lang="pt">Horário/Status: 31 min restante</desc>
   </programme>
-  <programme start="20260924190500 +0000" stop="20260924200500 +0000" channel="bet-x-tyler-perry-drama">
-    <title lang="pt">Blue Bloods</title>
-    <desc lang="pt">Horário/Status: 19:05 - 20:05</desc>
+  <programme start="20260924032300 +0000" stop="20260924065900 +0000" channel="bet-x-tyler-perry-drama">
+    <title lang="pt">NFL Game Re-Airs</title>
+    <desc lang="pt">Horário/Status: 03:23 - 06:59</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="hallmark-movies-and-more">
-    <title lang="pt">Mad Men</title>
-    <desc lang="pt">Horário/Status: 4 min restante</desc>
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="hallmark-movies-and-more">
+    <title lang="pt">The Listener</title>
+    <desc lang="pt">Horário/Status: 8 min restante</desc>
   </programme>
-  <programme start="20260924185000 +0000" stop="20260924195100 +0000" channel="ion-mystery">
-    <title lang="pt">Mad Men</title>
-    <desc lang="pt">Horário/Status: 18:50 - 19:51</desc>
+  <programme start="20260924030000 +0000" stop="20260924040000 +0000" channel="ion-mystery">
+    <title lang="pt">The Listener</title>
+    <desc lang="pt">Horário/Status: 03:00 - 04:00</desc>
   </programme>
-  <programme start="20260924175300 +0000" stop="20260924184300 +0000" channel="the-walking-dead-universe-2">
+  <programme start="20260924015500 +0000" stop="20260924025000 +0000" channel="the-walking-dead-universe-2">
+    <title lang="pt">A Discovery of Witches</title>
+    <desc lang="pt">Horário/Status: 01:55 - 02:50</desc>
+  </programme>
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="the-wicked-tuna-channel-2">
+    <title lang="pt">A Discovery of Witches</title>
+    <desc lang="pt">Horário/Status: 51 min restante</desc>
+  </programme>
+  <programme start="20260924014600 +0000" stop="20260924023500 +0000" channel="the-conners">
     <title lang="pt">MythBusters</title>
-    <desc lang="pt">Horário/Status: 17:53 - 18:43</desc>
+    <desc lang="pt">Horário/Status: 01:46 - 02:35</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="the-wicked-tuna-channel-2">
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="cw-gold">
     <title lang="pt">MythBusters</title>
-    <desc lang="pt">Horário/Status: 47 min restante</desc>
+    <desc lang="pt">Horário/Status: 34 min restante</desc>
   </programme>
-  <programme start="20260924181200 +0000" stop="20260924184000 +0000" channel="the-conners">
+  <programme start="20260924032500 +0000" stop="20260924041500 +0000" channel="teen-wolf-by-mgm">
+    <title lang="pt">MythBusters</title>
+    <desc lang="pt">Horário/Status: 03:25 - 04:15</desc>
+  </programme>
+  <programme start="20260924021800 +0000" stop="20260924024600 +0000" channel="ion-plus-streaming">
     <title lang="pt">Forensic Files</title>
-    <desc lang="pt">Horário/Status: 18:12 - 18:40</desc>
+    <desc lang="pt">Horário/Status: 02:18 - 02:46</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="cw-gold">
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="acorn-tv-mysteries-2">
     <title lang="pt">Forensic Files</title>
     <desc lang="pt">Horário/Status: 23 min restante</desc>
   </programme>
-  <programme start="20260924190800 +0000" stop="20260924193700 +0000" channel="teen-wolf-by-mgm">
+  <programme start="20260924031400 +0000" stop="20260924034000 +0000" channel="britbox-mysteries">
     <title lang="pt">Forensic Files</title>
-    <desc lang="pt">Horário/Status: 19:08 - 19:37</desc>
+    <desc lang="pt">Horário/Status: 03:14 - 03:40</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="ion-plus-streaming">
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="midsomer-murders">
     <title lang="pt">Antiques Roadshow</title>
-    <desc lang="pt">Horário/Status: 21 min restante</desc>
+    <desc lang="pt">Horário/Status: 34 min restante</desc>
   </programme>
-  <programme start="20260924190600 +0000" stop="20260924201000 +0000" channel="acorn-tv-mysteries-2">
+  <programme start="20260924032500 +0000" stop="20260924042800 +0000" channel="weeds-and-nurse-jackie">
     <title lang="pt">Antiques Roadshow</title>
-    <desc lang="pt">Horário/Status: 19:06 - 20:10</desc>
+    <desc lang="pt">Horário/Status: 03:25 - 04:28</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="britbox-mysteries">
-    <title lang="pt">Molly&amp;#x27;s Game</title>
-    <desc lang="pt">Horário/Status: 7 min restante</desc>
+  <programme start="20260924002600 +0000" stop="20260924023000 +0000" channel="nikita">
+    <title lang="pt">Greedy People</title>
+    <desc lang="pt">Horário/Status: 00:26 - 02:30</desc>
   </programme>
-  <programme start="20260924185200 +0000" stop="20260924203600 +0000" channel="midsomer-murders">
-    <title lang="pt">Finding Steve McQueen</title>
-    <desc lang="pt">Horário/Status: 18:52 - 20:36</desc>
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="nash-bridges">
+    <title lang="pt">Lay the Favorite</title>
+    <desc lang="pt">Horário/Status: 84 min restante</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="weeds-and-nurse-jackie">
-    <title lang="pt">Top Story With Tom Llamas</title>
-    <desc lang="pt">Horário/Status: 14 min restante</desc>
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="heartland">
+    <title lang="pt">Dateline NBC</title>
+    <desc lang="pt">Horário/Status: 68 min restante</desc>
   </programme>
-  <programme start="20260924190000 +0000" stop="20260924193000 +0000" channel="nikita">
-    <title lang="pt">NBC Nightly News With Tom Llamas</title>
-    <desc lang="pt">Horário/Status: 19:00 - 19:30</desc>
-  </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="nash-bridges">
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="property-brothers-channel">
     <title lang="pt">Growing Up Hip Hop</title>
-    <desc lang="pt">Horário/Status: 16 min restante</desc>
+    <desc lang="pt">Horário/Status: 9 min restante</desc>
   </programme>
-  <programme start="20260924190100 +0000" stop="20260924195300 +0000" channel="heartland">
+  <programme start="20260924030000 +0000" stop="20260924035300 +0000" channel="real-housewives-vault">
     <title lang="pt">Growing Up Hip Hop</title>
-    <desc lang="pt">Horário/Status: 19:01 - 19:53</desc>
+    <desc lang="pt">Horário/Status: 03:00 - 03:53</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="property-brothers-channel">
-    <title lang="pt">Road Trip: Beer Pong</title>
-    <desc lang="pt">Horário/Status: 63 min restante</desc>
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="murdoch-mysteries-2">
+    <title lang="pt">Rat Race</title>
+    <desc lang="pt">Horário/Status: 30 min restante</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="real-housewives-vault">
-    <title lang="pt">Legacy Fighting Alliance 232: Visconde vs. Pintos</title>
+  <programme start="20260924032100 +0000" stop="20260924050500 +0000" channel="filmrise-british-tv">
+    <title lang="pt">Eurotrip</title>
+    <desc lang="pt">Horário/Status: 03:21 - 05:05</desc>
+  </programme>
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="generation-drama">
+    <title lang="pt">Flex Fight Series</title>
+    <desc lang="pt">Horário/Status: 68 min restante</desc>
+  </programme>
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="nip-tuck">
+    <title lang="pt">Unconventional</title>
+    <desc lang="pt">Horário/Status: 5 min restante</desc>
+  </programme>
+  <programme start="20260924025700 +0000" stop="20260924033000 +0000" channel="hersphere-by-lionsgate">
+    <title lang="pt">Unconventional</title>
+    <desc lang="pt">Horário/Status: 02:57 - 03:30</desc>
+  </programme>
+  <programme start="20260924021200 +0000" stop="20260924023800 +0000" channel="nashville">
+    <title lang="pt">Family Feud</title>
+    <desc lang="pt">Horário/Status: 02:12 - 02:38</desc>
+  </programme>
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="electric-now">
+    <title lang="pt">Family Feud</title>
     <desc lang="pt">Horário/Status: 14 min restante</desc>
   </programme>
-  <programme start="20260924190000 +0000" stop="20260924220000 +0000" channel="murdoch-mysteries-2">
-    <title lang="pt">Invicta FC</title>
-    <desc lang="pt">Horário/Status: 19:00 - 22:00</desc>
-  </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="filmrise-british-tv">
-    <title lang="pt">I&amp;#x27;m Dead</title>
-    <desc lang="pt">Horário/Status: 14 min restante</desc>
-  </programme>
-  <programme start="20260924190000 +0000" stop="20260924193000 +0000" channel="generation-drama">
-    <title lang="pt">I&amp;#x27;m Dead</title>
-    <desc lang="pt">Horário/Status: 19:00 - 19:30</desc>
-  </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="nip-tuck">
+  <programme start="20260924030500 +0000" stop="20260924033000 +0000" channel="bravo-vault">
     <title lang="pt">Family Feud</title>
-    <desc lang="pt">Horário/Status: 1 min restante</desc>
+    <desc lang="pt">Horário/Status: 03:05 - 03:30</desc>
   </programme>
-  <programme start="20260924184700 +0000" stop="20260924191500 +0000" channel="hersphere-by-lionsgate">
-    <title lang="pt">Family Feud</title>
-    <desc lang="pt">Horário/Status: 18:47 - 19:15</desc>
-  </programme>
-  <programme start="20260924191500 +0000" stop="20260924194200 +0000" channel="nashville">
-    <title lang="pt">Family Feud</title>
-    <desc lang="pt">Horário/Status: 19:15 - 19:42</desc>
-  </programme>
-  <programme start="20260924180700 +0000" stop="20260924183800 +0000" channel="electric-now">
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="ebony-tv-by-lionsgate">
     <title lang="pt">Ryan Trahan</title>
-    <desc lang="pt">Horário/Status: 18:07 - 18:38</desc>
+    <desc lang="pt">Horário/Status: 5 min restante</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="bravo-vault">
+  <programme start="20260924025600 +0000" stop="20260924032700 +0000" channel="designated-survivor">
     <title lang="pt">Ryan Trahan</title>
-    <desc lang="pt">Horário/Status: 36 min restante</desc>
+    <desc lang="pt">Horário/Status: 02:56 - 03:27</desc>
   </programme>
-  <programme start="20260924192100 +0000" stop="20260924200200 +0000" channel="ebony-tv-by-lionsgate">
+  <programme start="20260924032700 +0000" stop="20260924035500 +0000" channel="crime-thrillher">
     <title lang="pt">Ryan Trahan</title>
-    <desc lang="pt">Horário/Status: 19:21 - 20:02</desc>
+    <desc lang="pt">Horário/Status: 03:27 - 03:55</desc>
   </programme>
-  <programme start="20260924014515 +0000" stop="20260924054515 +0000" channel="designated-survivor">
+  <programme start="20260924075106 +0000" stop="20260924115106 +0000" channel="silent-witnessornew-tricks">
     <title lang="pt">Canal de TV ao Vivo Favorito</title>
     <desc lang="pt">Horário/Status: Canal de TV ao Vivo Favorito</desc>
   </programme>
