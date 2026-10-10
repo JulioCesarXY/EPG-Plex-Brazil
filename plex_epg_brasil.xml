@@ -2784,212 +2784,208 @@
     <display-name>VR+</display-name>
     <icon src="https://images.plex.tv/photo?size=large-1920&amp;amp;scale=1&amp;amp;url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fcd4c6347-92c4-4381-9d09-b8d38d9729de%2F1500x1000_-_white_logo_VR__Juan_M_Velasquez.png" />
   </channel>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="nfl-channel">
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="nfl-channel">
     <title lang="pt">Pesquisar</title>
     <desc lang="pt">Horário/Status: TV Ao Vivo</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="ion-streaming">
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="ion-streaming">
     <title lang="pt">Sob Demanda</title>
     <desc lang="pt">Horário/Status: Descobrir</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="the-walking-dead-universe-2">
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="the-walking-dead-universe-2">
     <title lang="pt">Minhas Mídias</title>
     <desc lang="pt">Horário/Status: Minhas Listas</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="mgm-presents">
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="mgm-presents">
     <title lang="pt">Sign In</title>
     <desc lang="pt">Horário/Status: Featured</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="rookie-blue-2">
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="rookie-blue-2">
     <title lang="pt">Bingeworthy</title>
     <desc lang="pt">Horário/Status: Movies</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="paranormal-chronicles">
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="paranormal-chronicles">
     <title lang="pt">True Crime</title>
     <desc lang="pt">Horário/Status: News</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="sweet-escapes">
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="sweet-escapes">
     <title lang="pt">Sports</title>
     <desc lang="pt">Horário/Status: Reality</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="bbc-news-north-america">
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="bbc-news-north-america">
     <title lang="pt">Classics</title>
     <desc lang="pt">Horário/Status: Adrenaline &amp;amp; Sci-Fi</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="xtreme-outdoor-by-history">
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="xtreme-outdoor-by-history">
     <title lang="pt">Comedy</title>
     <desc lang="pt">Horário/Status: Daytime TV &amp;amp; Games</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="48-hours-2">
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="48-hours-2">
     <title lang="pt">Explore</title>
     <desc lang="pt">Horário/Status: Food, Home &amp;amp; Culture</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="growing-up-hip-hop">
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="growing-up-hip-hop">
     <title lang="pt">Kids &amp;amp; Family</title>
     <desc lang="pt">Horário/Status: En Español</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="strongman-champions">
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="strongman-champions">
     <title lang="pt">Global</title>
     <desc lang="pt">Horário/Status: Music</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="judge-judy">
-    <title lang="pt">9:30 PM</title>
-    <desc lang="pt">Horário/Status: 10:00 PM</desc>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="judge-judy">
+    <title lang="pt">2:30 AM</title>
+    <desc lang="pt">Horário/Status: 3:00 AM</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="family-feud-classic">
-    <title lang="pt">10:30 PM</title>
-    <desc lang="pt">Horário/Status: 9:30 PM</desc>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="family-feud-classic">
+    <title lang="pt">3:30 AM</title>
+    <desc lang="pt">Horário/Status: 2:30 AM</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="ryan-trahan">
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="ryan-trahan">
     <title lang="pt">Featured</title>
-    <desc lang="pt">Horário/Status: NFL Pro</desc>
+    <desc lang="pt">Horário/Status: Game of the Week</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="cw-forever">
-    <title lang="pt">4 min restante</title>
-    <desc lang="pt">Horário/Status: NFL Daily</desc>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="cw-forever">
+    <title lang="pt">17:02 - 19:44</title>
+    <desc lang="pt">Horário/Status: NFL Mic&amp;#x27;d Up</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="stories-by-amc-2">
-    <title lang="pt">16:59 - 18:00</title>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="stories-by-amc-2">
+    <title lang="pt">21 min restante</title>
+    <desc lang="pt">Horário/Status: NFL Throwback</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="stories-by-amc">
+    <title lang="pt">20:14 - 20:30</title>
     <desc lang="pt">Horário/Status: S.W.A.T.</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="stories-by-amc">
-    <title lang="pt">5 min restante</title>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="bet-x-tyler-perry-drama">
+    <title lang="pt">7 min restante</title>
     <desc lang="pt">Horário/Status: S.W.A.T.</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="bet-x-tyler-perry-drama">
-    <title lang="pt">17:00 - 18:00</title>
-    <desc lang="pt">Horário/Status: Canal de TV ao Vivo Favorito</desc>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="hallmark-movies-and-more">
+    <title lang="pt">20:00 - 21:00</title>
+    <desc lang="pt">Horário/Status: The Walking Dead</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="hallmark-movies-and-more">
-    <title lang="pt">The Walking Dead</title>
-    <desc lang="pt">Horário/Status: 34 min restante</desc>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="ion-mystery">
+    <title lang="pt">18:37 - 19:36</title>
+    <desc lang="pt">Horário/Status: The Walking Dead</desc>
   </programme>
-  <programme start="20261009172900 +0000" stop="20261009184300 +0000" channel="ion-mystery">
-    <title lang="pt">The Walking Dead</title>
-    <desc lang="pt">Horário/Status: 17:29 - 18:43</desc>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="the-wicked-tuna-channel-2">
+    <title lang="pt">37 min restante</title>
+    <desc lang="pt">Horário/Status: The Terminator</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="the-wicked-tuna-channel-2">
-    <title lang="pt">Bill &amp;amp; Ted&amp;#x27;s Bogus Journey</title>
-    <desc lang="pt">Horário/Status: 14 min restante</desc>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="the-conners">
+    <title lang="pt">1 h 36 min restante</title>
+    <desc lang="pt">Horário/Status: Rookie Blue</desc>
   </programme>
-  <programme start="20261009170800 +0000" stop="20261009190700 +0000" channel="the-conners">
-    <title lang="pt">RoboCop</title>
-    <desc lang="pt">Horário/Status: 17:08 - 19:07</desc>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="cw-gold">
+    <title lang="pt">18:52 - 19:41</title>
+    <desc lang="pt">Horário/Status: Novo</desc>
   </programme>
-  <programme start="20261009155900 +0000" stop="20261009164800 +0000" channel="cw-gold">
-    <title lang="pt">Rookie Blue</title>
-    <desc lang="pt">Horário/Status: 15:59 - 16:48</desc>
-  </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="teen-wolf-by-mgm">
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="teen-wolf-by-mgm">
     <title lang="pt">Novo</title>
     <desc lang="pt">Horário/Status: Rookie Blue</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="ion-plus-streaming">
-    <title lang="pt">43 min restante</title>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="ion-plus-streaming">
+    <title lang="pt">38 min restante</title>
     <desc lang="pt">Horário/Status: Novo</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="acorn-tv-mysteries-2">
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="acorn-tv-mysteries-2">
     <title lang="pt">Novo</title>
     <desc lang="pt">Horário/Status: A Haunting</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="britbox-mysteries">
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="britbox-mysteries">
+    <title lang="pt">18:51 - 19:45</title>
+    <desc lang="pt">Horário/Status: Ghost Stories</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="midsomer-murders">
+    <title lang="pt">20 min restante</title>
+    <desc lang="pt">Horário/Status: Ghost Stories</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="weeds-and-nurse-jackie">
+    <title lang="pt">20:12 - 20:39</title>
+    <desc lang="pt">Horário/Status: Halloween Wars</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="nikita">
+    <title lang="pt">18:47 - 19:35</title>
+    <desc lang="pt">Horário/Status: Halloween Wars</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="nash-bridges">
+    <title lang="pt">31 min restante</title>
+    <desc lang="pt">Horário/Status: Halloween Wars</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="heartland">
+    <title lang="pt">20:23 - 21:11</title>
+    <desc lang="pt">Horário/Status: BBC News</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="property-brothers-channel">
+    <title lang="pt">7 min restante</title>
+    <desc lang="pt">Horário/Status: BBC News</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="real-housewives-vault">
+    <title lang="pt">20:00 - 20:30</title>
+    <desc lang="pt">Horário/Status: Mountain Men</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="murdoch-mysteries-2">
+    <title lang="pt">16 min restante</title>
+    <desc lang="pt">Horário/Status: Mountain Men</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="filmrise-british-tv">
+    <title lang="pt">20:08 - 21:00</title>
+    <desc lang="pt">Horário/Status: 48 Hours</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="generation-drama">
+    <title lang="pt">7 min restante</title>
+    <desc lang="pt">Horário/Status: 48 Hours</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="nip-tuck">
+    <title lang="pt">20:00 - 21:00</title>
+    <desc lang="pt">Horário/Status: Growing Up Hip Hop</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="hersphere-by-lionsgate">
+    <title lang="pt">18:45 - 19:34</title>
+    <desc lang="pt">Horário/Status: Growing Up Hip Hop</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="nashville">
+    <title lang="pt">31 min restante</title>
+    <desc lang="pt">Horário/Status: Growing Up Hip Hop</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="electric-now">
+    <title lang="pt">20:23 - 21:14</title>
+    <desc lang="pt">Horário/Status: Strongman Champions League</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="bravo-vault">
+    <title lang="pt">5 min restante</title>
+    <desc lang="pt">Horário/Status: Strongman Champions League</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="ebony-tv-by-lionsgate">
+    <title lang="pt">19:57 - 20:57</title>
+    <desc lang="pt">Horário/Status: Judge Judy</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="designated-survivor">
+    <title lang="pt">7 min restante</title>
+    <desc lang="pt">Horário/Status: Judge Judy</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="crime-thrillher">
+    <title lang="pt">20:00 - 20:30</title>
+    <desc lang="pt">Horário/Status: Family Feud</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="silent-witnessornew-tricks">
+    <title lang="pt">19:12 - 19:39</title>
+    <desc lang="pt">Horário/Status: Family Feud</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="the-doctor-blake-mysteries">
+    <title lang="pt">17 min restante</title>
+    <desc lang="pt">Horário/Status: Family Feud</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="lawless">
+    <title lang="pt">20:09 - 20:36</title>
+    <desc lang="pt">Horário/Status: Ryan Trahan</desc>
+  </programme>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="lionsgate-network">
     <title lang="pt">1 min restante</title>
-    <desc lang="pt">Horário/Status: A Haunting</desc>
+    <desc lang="pt">Horário/Status: Ryan Trahan</desc>
   </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="midsomer-murders">
-    <title lang="pt">16:55 - 17:58</title>
-    <desc lang="pt">Horário/Status: Halloween Wars</desc>
-  </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="weeds-and-nurse-jackie">
-    <title lang="pt">15:59 - 16:47</title>
-    <desc lang="pt">Horário/Status: Halloween Wars</desc>
-  </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="nikita">
-    <title lang="pt">41 min restante</title>
-    <desc lang="pt">Horário/Status: Newsnight</desc>
-  </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="nash-bridges">
-    <title lang="pt">5 min restante</title>
-    <desc lang="pt">Horário/Status: BBC World News America</desc>
-  </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="heartland">
-    <title lang="pt">17:00 - 17:30</title>
-    <desc lang="pt">Horário/Status: Mountain Men</desc>
-  </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="property-brothers-channel">
-    <title lang="pt">5 min restante</title>
-    <desc lang="pt">Horário/Status: Mountain Men</desc>
-  </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="real-housewives-vault">
-    <title lang="pt">17:00 - 17:51</title>
-    <desc lang="pt">Horário/Status: 48 Hours</desc>
-  </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="murdoch-mysteries-2">
-    <title lang="pt">3 min restante</title>
-    <desc lang="pt">Horário/Status: 48 Hours</desc>
-  </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="filmrise-british-tv">
-    <title lang="pt">16:58 - 17:58</title>
-    <desc lang="pt">Horário/Status: Canal de TV ao Vivo Favorito</desc>
-  </programme>
-  <programme start="20261009154600 +0000" stop="20261009163600 +0000" channel="generation-drama">
-    <title lang="pt">Growing Up Hip Hop</title>
-    <desc lang="pt">Horário/Status: 15:46 - 16:36</desc>
-  </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="nip-tuck">
-    <title lang="pt">Growing Up Hip Hop</title>
-    <desc lang="pt">Horário/Status: 31 min restante</desc>
-  </programme>
-  <programme start="20261009172500 +0000" stop="20261009181600 +0000" channel="hersphere-by-lionsgate">
-    <title lang="pt">Growing Up Hip Hop</title>
-    <desc lang="pt">Horário/Status: 17:25 - 18:16</desc>
-  </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="nashville">
-    <title lang="pt">Strongman Champions League</title>
-    <desc lang="pt">Horário/Status: 5 min restante</desc>
-  </programme>
-  <programme start="20261009165900 +0000" stop="20261009175900 +0000" channel="electric-now">
-    <title lang="pt">Strongman Champions League</title>
-    <desc lang="pt">Horário/Status: 16:59 - 17:59</desc>
-  </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="bravo-vault">
-    <title lang="pt">Judge Judy</title>
-    <desc lang="pt">Horário/Status: 5 min restante</desc>
-  </programme>
-  <programme start="20261009170000 +0000" stop="20261009173000 +0000" channel="ebony-tv-by-lionsgate">
-    <title lang="pt">Judge Judy</title>
-    <desc lang="pt">Horário/Status: 17:00 - 17:30</desc>
-  </programme>
-  <programme start="20261009161400 +0000" stop="20261009164000 +0000" channel="designated-survivor">
-    <title lang="pt">Family Feud</title>
-    <desc lang="pt">Horário/Status: 16:14 - 16:40</desc>
-  </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="crime-thrillher">
-    <title lang="pt">Family Feud</title>
-    <desc lang="pt">Horário/Status: 15 min restante</desc>
-  </programme>
-  <programme start="20261009170900 +0000" stop="20261009173500 +0000" channel="silent-witnessornew-tricks">
-    <title lang="pt">Family Feud</title>
-    <desc lang="pt">Horário/Status: 17:09 - 17:35</desc>
-  </programme>
-  <programme start="20261009155200 +0000" stop="20261009163300 +0000" channel="the-doctor-blake-mysteries">
-    <title lang="pt">Ryan Trahan</title>
-    <desc lang="pt">Horário/Status: 15:52 - 16:33</desc>
-  </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="lawless">
-    <title lang="pt">Ryan Trahan</title>
-    <desc lang="pt">Horário/Status: 9 min restante</desc>
-  </programme>
-  <programme start="20261009170300 +0000" stop="20261009173700 +0000" channel="lionsgate-network">
-    <title lang="pt">Ryan Trahan</title>
-    <desc lang="pt">Horário/Status: 17:03 - 17:37</desc>
-  </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="pulse">
-    <title lang="pt">Canal de TV ao Vivo Favorito</title>
-    <desc lang="pt">Horário/Status: Canal de TV ao Vivo Favorito</desc>
-  </programme>
-  <programme start="20261009215410 +0000" stop="20261010015410 +0000" channel="the-graham-norton-show">
-    <title lang="pt">Canal de TV ao Vivo Favorito</title>
-    <desc lang="pt">Horário/Status: Canal de TV ao Vivo Favorito</desc>
+  <programme start="20261010025220 +0000" stop="20261010065220 +0000" channel="pulse">
+    <title lang="pt">19:53 - 20:21</title>
+    <desc lang="pt">Horário/Status: Ryan Trahan</desc>
   </programme>
 </tv>
